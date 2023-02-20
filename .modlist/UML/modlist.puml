@@ -1,0 +1,39 @@
+scale max 1024 width
+
+!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Container.puml
+!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Component.puml
+
+!define DEVICONS https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2
+!include DEVICONS/java_wordmark.puml
+
+AddElementTag("main", $fontColor="#dfffef", $borderColor="#dfffef", $bgColor="#1272de")
+AddElementTag("server", $fontColor="#fdae61", $borderColor="#fdae61", $bgColor="#555555")
+AddElementTag("client", $fontColor="#ffffcf", $borderColor="#646c5e", $bgColor="#688c4a")
+AddElementTag("deprecated", $fontColor="#d73027", $borderColor="#d73027", $bgColor="#444444")
+
+AddElementTag("octagonal", $shape=EightSidedShape(), $legendText="eight sided (восмиугольник) - этих модов может не быть в финальной сборке")
+
+title ИИСн2 Моды (IIAu2 Mods)
+
+Container(test1, "server", $tags="octagonal+server")
+Container(test4, "main", $tags="main")
+Container(test2, "client", $tags="client")
+Container(test3, "deprecated", $tags="deprecated")
+
+Boundary(goup_main, "Основа сборки") {
+    Container(aeadditions, "AEAdditions", "AEAdditions-1.12.2-1.3.8", $descr="Дополнение для AppliedEnergistics (бывшый ExtraCells2)", $link="https://www.curseforge.com/minecraft/mc-mods/ae-additions-extra-cells-2-fork/files/3814371")
+}
+
+Boundary(interface, "Интерфейсные моды") {
+    Container(web_app, "Web Application", "C#, ASP.NET Core 2.1 MVC", $descr="Allows users to compare multiple Twitter timelines", $link="https://github.com/plantuml-stdlib/C4-PlantUML/blob/master/LayoutOptions.md")
+}
+
+Boundary(admin, "Моды для администрирования") {
+    Container(web_app, "Web Application", "C#, ASP.NET Core 2.1 MVC", $descr="Allows users to compare multiple Twitter timelines", $link="https://github.com/plantuml-stdlib/C4-PlantUML/blob/master/LayoutOptions.md")
+}
+
+Boundary(dev, "Моды для настройки сборки") {
+    Container(web_app, "Web Application", "C#, ASP.NET Core 2.1 MVC", $descr="Allows users to compare multiple Twitter timelines", $link="https://github.com/plantuml-stdlib/C4-PlantUML/blob/master/LayoutOptions.md")
+}
+
+SHOW_LEGEND()
