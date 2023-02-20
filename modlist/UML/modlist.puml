@@ -38,6 +38,7 @@ Boundary(group_architect, "Архитектурные моды") {
     Container(bibliocraft, "BiblioCraft", "BiblioCraft[v2.4.6][MC1.12.2]", $tags="main", $descr="Мод с множеством красивых табличек, книжных полок и т.п.", $link="https://www.curseforge.com/minecraft/mc-mods/bibliocraft/files/3647708")
     Container(bonsaitrees, "bonsaitrees", "bonsaitrees-1.1.4-b170", $tags="main", $descr="Мод добавляет красивые мини деревья", $link="https://www.curseforge.com/minecraft/mc-mods/bonsai-trees/files/2846217")
     Container(chisel, "chisel", "Chisel-MC1.12.2-1.0.2.45", $tags="main", $descr="Мод добавляет много разных строительных блоков", $link="https://www.curseforge.com/minecraft/mc-mods/chisel/files/2915375")
+    Container(ctm, "ConnectedTexturesMod", "CTM-MC1.12.2-1.0.2.31", $tags="main", $descr="Depends for chisel", $link="https://www.curseforge.com/minecraft/mc-mods/ctm/files/2915363")
 }
 
 Boundary(group_interface, "Интерфейсные моды") {
@@ -52,6 +53,7 @@ Boundary(group_dev, "Моды для настройки сборки") {
     Container(base, "base", "base-1.12.2-3.14.0", $tags="main", $descr="Depends for ContentTweaker", $link="https://www.curseforge.com/minecraft/mc-mods/base/files/3440963")
     Container(contenttweaker, "ContentTweaker", "ContentTweaker-1.12.2-4.10.0", $tags="main", $descr="Addon for CraftTweaker", $link="https://www.curseforge.com/minecraft/mc-mods/contenttweaker/files/3331364")
     Container(crafttweaker, "CraftTweaker2", "CraftTweaker2-1.12-4.1.20.684", $tags="main", $descr="With CraftTweaker you can change recipes, script events, add new commands and even change item properties!", $link="https://www.curseforge.com/minecraft/mc-mods/crafttweaker/files/4379998")
+    Container(customoregen, "CustomOreGen", "CustomOreGen-1.12-1.8.1", $tags="main", $descr="Configure ore gen", $link="https://www.curseforge.com/minecraft/mc-mods/customoregen/files/2568549")
 }
 
 
@@ -60,6 +62,7 @@ Rel(codechickenlib, chickenchunks, "")
 Rel(cofhworld, cofhcore, "")
 Rel(base, contenttweaker, "")
 Rel(crafttweaker, contenttweaker, "")
+Rel(ctm, chisel, "")
 
 
 'Lay_D(group_main, group_architect)
