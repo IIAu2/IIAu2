@@ -1,3 +1,4 @@
+@startuml
 scale max 1024 width
 
 !include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Container.puml
@@ -37,3 +38,4 @@ Boundary(dev, "Моды для настройки сборки") {
 }
 
 SHOW_LEGEND()
+@enduml
