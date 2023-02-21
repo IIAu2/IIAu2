@@ -56,7 +56,7 @@ Boundary(group_dev, "Моды для настройки сборки") {
     Container(contenttweaker, "ContentTweaker", "ContentTweaker-1.12.2-4.10.0", $tags="main", $descr="Addon for CraftTweaker", $link="https://www.curseforge.com/minecraft/mc-mods/contenttweaker/files/3331364")
     Container(crafttweaker, "CraftTweaker2", "CraftTweaker2-1.12-4.1.20.684", $tags="main", $descr="With CraftTweaker you can change recipes, script events, add new commands and even change item properties!", $link="https://www.curseforge.com/minecraft/mc-mods/crafttweaker/files/4379998")
     Container(customoregen, "CustomOreGen", "CustomOreGen-1.12-1.8.1", $tags="main", $descr="Configure ore gen", $link="https://www.curseforge.com/minecraft/mc-mods/customoregen/files/2568549")
-    Container(endertweaker, "EnderTweaker", "EnderTweaker-1.12.2-1.2.3", $tags="main", $descr="Ender Tweaker is an interface between EnderIO and CraftTweaker,", $link="https://www.curseforge.com/minecraft/mc-mods/endertweaker/files/3474382")
+    Container(endertweaker, "EnderTweaker", "EnderTweaker-1.12.2-1.2.3", $tags="main", $descr="Ender Tweaker is an interface between EnderIO and CraftTweaker", $link="https://www.curseforge.com/minecraft/mc-mods/endertweaker/files/3474382")
 }
 
 
