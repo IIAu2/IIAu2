@@ -93,10 +93,11 @@ Rel(ic2, gt, "")
 Rel(forestry, jeibees, "")
 
 
-'Lay_D(group_main, group_architect)
-'Lay_D(group_architect, group_interface)
-'Lay_D(group_interface, group_admin)
-'Lay_D(group_admin, group_dev)
+Lay_L(group_main, legend)
+Lay_D(group_main, group_architect)
+Lay_D(group_architect, group_interface)
+Lay_D(group_interface, group_admin)
+Lay_D(group_admin, group_dev)
 
 
 SHOW_LEGEND()
