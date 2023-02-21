@@ -31,6 +31,8 @@ Boundary(group_main, "Основа сборки") {
     Container(cofhcore, "CoFHCore", "CoFHCore-1.12.2-4.6.6.1-universal", $tags="main", $descr="Depends for many mods", $link="https://www.curseforge.com/minecraft/mc-mods/cofh-core/files/2920433")
     Container(cofhworld, "CoFHWorld", "CoFHWorld-1.12.2-1.4.0.1-universal", $tags="main", $descr="Depends for many mods", $link="https://www.curseforge.com/minecraft/mc-mods/cofh-world/files/2920434")
     Container(computronics, "Computronics", "Computronics-1.12.2-1.6.6", $tags="main", $descr="Дополнение для OpenComputers", $link="https://wiki.vexatos.com/wiki:computronics")
+    Container(endercore, "EnderCore", "EnderCore-1.12.2-0.5.76", $tags="main", $descr="Depends for EnderIO", $link="https://www.curseforge.com/minecraft/mc-mods/endercore/files/2972849")
+    Container(enderio, "EnderIO", "EnderIO-1.12.2-5.3.70", $tags="main", $descr="nderIO provides many stuff", $link="https://www.curseforge.com/minecraft/mc-mods/ender-io/files/3328811")
 }
 
 Boundary(group_architect, "Архитектурные моды") {
@@ -54,6 +56,7 @@ Boundary(group_dev, "Моды для настройки сборки") {
     Container(contenttweaker, "ContentTweaker", "ContentTweaker-1.12.2-4.10.0", $tags="main", $descr="Addon for CraftTweaker", $link="https://www.curseforge.com/minecraft/mc-mods/contenttweaker/files/3331364")
     Container(crafttweaker, "CraftTweaker2", "CraftTweaker2-1.12-4.1.20.684", $tags="main", $descr="With CraftTweaker you can change recipes, script events, add new commands and even change item properties!", $link="https://www.curseforge.com/minecraft/mc-mods/crafttweaker/files/4379998")
     Container(customoregen, "CustomOreGen", "CustomOreGen-1.12-1.8.1", $tags="main", $descr="Configure ore gen", $link="https://www.curseforge.com/minecraft/mc-mods/customoregen/files/2568549")
+    Container(endertweaker, "EnderTweaker", "EnderTweaker-1.12.2-1.2.3", $tags="main", $descr="Ender Tweaker is an interface between EnderIO and CraftTweaker,", $link="https://www.curseforge.com/minecraft/mc-mods/endertweaker/files/3474382")
 }
 
 
@@ -63,6 +66,9 @@ Rel(cofhworld, cofhcore, "")
 Rel(base, contenttweaker, "")
 Rel(crafttweaker, contenttweaker, "")
 Rel(ctm, chisel, "")
+Rel(endercore, enderio, "")
+Rel(enderio, endertweaker, "")
+Rel(endertweaker, crafttweaker, "")
 
 
 'Lay_D(group_main, group_architect)
