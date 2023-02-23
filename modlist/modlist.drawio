@@ -345,7 +345,7 @@
           </mxCell>
         </UserObject>
         <UserObject label="CoFHWorld (CoFHWorld-1.12.2-1.4.0.1-universal)&#xa;[ Depends for many mods ]" link="https://www.curseforge.com/minecraft/mc-mods/cofh-world/files/2920434" id="rv7EcFNvCzqpHA1CRZnH-23">
-          <mxCell id="rv7EcFNvCzqpHA1CRZnH-23" value="Item 3" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="AUP4fguQQ9OvYXi2VR-i-13" vertex="1">
+          <mxCell style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="AUP4fguQQ9OvYXi2VR-i-13" vertex="1">
             <mxGeometry y="350" width="480" height="40" as="geometry" />
           </mxCell>
         </UserObject>
