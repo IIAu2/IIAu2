@@ -329,12 +329,16 @@
             <mxGeometry y="190" width="480" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="rv7EcFNvCzqpHA1CRZnH-20" value="Item 3" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="AUP4fguQQ9OvYXi2VR-i-13" vertex="1">
-          <mxGeometry y="230" width="480" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rv7EcFNvCzqpHA1CRZnH-21" value="Item 3" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="AUP4fguQQ9OvYXi2VR-i-13" vertex="1">
-          <mxGeometry y="270" width="480" height="40" as="geometry" />
-        </mxCell>
+        <UserObject label="ChickenChunks (ChickenChunks-1.12.2-2.4.2.74-universal)&#xa;[ Mod with ChunkLoaders ]" link="https://www.curseforge.com/minecraft/mc-mods/chicken-chunks-1-8/files/2755785" id="rv7EcFNvCzqpHA1CRZnH-20">
+          <mxCell style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="AUP4fguQQ9OvYXi2VR-i-13" vertex="1">
+            <mxGeometry y="230" width="480" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="CodeChickenLib (CodeChickenLib-1.12.2-3.2.3.358-universal)&#xa;[ Depends for ChickenChunks ]" link="https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8/files/2779848" id="rv7EcFNvCzqpHA1CRZnH-21">
+          <mxCell style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="AUP4fguQQ9OvYXi2VR-i-13" vertex="1">
+            <mxGeometry y="270" width="480" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="rv7EcFNvCzqpHA1CRZnH-22" value="Item 3" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="AUP4fguQQ9OvYXi2VR-i-13" vertex="1">
           <mxGeometry y="310" width="480" height="40" as="geometry" />
         </mxCell>
