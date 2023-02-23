@@ -339,42 +339,66 @@
             <mxGeometry y="270" width="480" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="rv7EcFNvCzqpHA1CRZnH-22" value="Item 3" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="AUP4fguQQ9OvYXi2VR-i-13" vertex="1">
-          <mxGeometry y="310" width="480" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rv7EcFNvCzqpHA1CRZnH-23" value="Item 3" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="AUP4fguQQ9OvYXi2VR-i-13" vertex="1">
-          <mxGeometry y="350" width="480" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rv7EcFNvCzqpHA1CRZnH-24" value="Item 3" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="AUP4fguQQ9OvYXi2VR-i-13" vertex="1">
-          <mxGeometry y="390" width="480" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rv7EcFNvCzqpHA1CRZnH-25" value="Item 3" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="AUP4fguQQ9OvYXi2VR-i-13" vertex="1">
-          <mxGeometry y="430" width="480" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rv7EcFNvCzqpHA1CRZnH-26" value="Item 3" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="AUP4fguQQ9OvYXi2VR-i-13" vertex="1">
-          <mxGeometry y="470" width="480" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rv7EcFNvCzqpHA1CRZnH-27" value="Item 3" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="AUP4fguQQ9OvYXi2VR-i-13" vertex="1">
-          <mxGeometry y="510" width="480" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rv7EcFNvCzqpHA1CRZnH-28" value="Item 3" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="AUP4fguQQ9OvYXi2VR-i-13" vertex="1">
-          <mxGeometry y="550" width="480" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rv7EcFNvCzqpHA1CRZnH-29" value="Item 3" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="AUP4fguQQ9OvYXi2VR-i-13" vertex="1">
-          <mxGeometry y="590" width="480" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rv7EcFNvCzqpHA1CRZnH-30" value="Item 3" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="AUP4fguQQ9OvYXi2VR-i-13" vertex="1">
-          <mxGeometry y="630" width="480" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rv7EcFNvCzqpHA1CRZnH-31" value="Item 3" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="AUP4fguQQ9OvYXi2VR-i-13" vertex="1">
-          <mxGeometry y="670" width="480" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rv7EcFNvCzqpHA1CRZnH-32" value="Item 3" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="AUP4fguQQ9OvYXi2VR-i-13" vertex="1">
-          <mxGeometry y="710" width="480" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rv7EcFNvCzqpHA1CRZnH-33" value="Item 3" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="AUP4fguQQ9OvYXi2VR-i-13" vertex="1">
-          <mxGeometry y="750" width="480" height="40" as="geometry" />
-        </mxCell>
+        <UserObject label="CoFHCore (CoFHCore-1.12.2-4.6.6.1-universal)&#xa;[ Depends for many mods ]" link="https://www.curseforge.com/minecraft/mc-mods/cofh-core/files/2920433" id="rv7EcFNvCzqpHA1CRZnH-22">
+          <mxCell style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="AUP4fguQQ9OvYXi2VR-i-13" vertex="1">
+            <mxGeometry y="310" width="480" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="CoFHWorld (CoFHWorld-1.12.2-1.4.0.1-universal)&#xa;[ Depends for many mods ]" link="https://www.curseforge.com/minecraft/mc-mods/cofh-world/files/2920434" id="rv7EcFNvCzqpHA1CRZnH-23">
+          <mxCell id="rv7EcFNvCzqpHA1CRZnH-23" value="Item 3" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="AUP4fguQQ9OvYXi2VR-i-13" vertex="1">
+            <mxGeometry y="350" width="480" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+         <UserObject label="Computronics (Computronics-1.12.2-1.6.6)&#xa;[ Дополнение для OpenComputers ]" link="https://wiki.vexatos.com/wiki:computronics" id="rv7EcFNvCzqpHA1CRZnH-24">
+          <mxCell style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="AUP4fguQQ9OvYXi2VR-i-13" vertex="1">
+            <mxGeometry y="390" width="480" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="EnderCore (EnderCore-1.12.2-0.5.76)&#xa;[ Depends for EnderIO ]" link="https://www.curseforge.com/minecraft/mc-mods/endercore/files/2972849" id="rv7EcFNvCzqpHA1CRZnH-25">
+          <mxCell style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="AUP4fguQQ9OvYXi2VR-i-13" vertex="1">
+            <mxGeometry y="430" width="480" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="EnderIO (EnderIO-1.12.2-5.3.70)&#xa;[ EnderIO provides many stuff ]" link="https://www.curseforge.com/minecraft/mc-mods/ender-io/files/3328811" id="rv7EcFNvCzqpHA1CRZnH-26">
+          <mxCell style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="AUP4fguQQ9OvYXi2VR-i-13" vertex="1">
+            <mxGeometry y="470" width="480" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="EnergyControl (EnergyControl-1.12.2-0.3.1)&#xa;[ Разные инфо панели ]" link="https://www.curseforge.com/minecraft/mc-mods/energy-control/files/3829524" id="rv7EcFNvCzqpHA1CRZnH-27">
+          <mxCell style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="AUP4fguQQ9OvYXi2VR-i-13" vertex="1">
+            <mxGeometry y="510" width="480" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="FastLeafDecay (FastLeafDecay-v14)&#xa;[ ]" link="https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay/files/2463272" id="rv7EcFNvCzqpHA1CRZnH-28">
+          <mxCell style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="AUP4fguQQ9OvYXi2VR-i-13" vertex="1">
+            <mxGeometry y="550" width="480" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="forestry (forestry_1.12.2-5.8.2.387)&#xa;[ ]" link="https://www.curseforge.com/minecraft/mc-mods/forestry/files/2684780" id="rv7EcFNvCzqpHA1CRZnH-29">
+          <mxCell style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="AUP4fguQQ9OvYXi2VR-i-13" vertex="1">
+            <mxGeometry y="590" width="480" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Forgelin (Forgelin-1.8.4)&#xa;[ Dependency for AEAdditions ]" link="https://www.curseforge.com/minecraft/mc-mods/shadowfacts-forgelin/files/2785465" id="rv7EcFNvCzqpHA1CRZnH-30">
+          <mxCell style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="AUP4fguQQ9OvYXi2VR-i-13" vertex="1">
+            <mxGeometry y="630" width="480" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="ForgeMultipart (ForgeMultipart-1.12.2-2.6.2.83-universal)&#xa;[ Dependency for ProjRED, GT and many other mods ]" link="https://www.curseforge.com/minecraft/mc-mods/cb-multipart/files/3601708" id="rv7EcFNvCzqpHA1CRZnH-31">
+          <mxCell style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="AUP4fguQQ9OvYXi2VR-i-13" vertex="1">
+            <mxGeometry y="670" width="480" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="gendustry (gendustry-1.6.5.8-mc1.12.2)&#xa;[ ]" link="https://www.curseforge.com/minecraft/mc-mods/gendustry/files/2516215" id="rv7EcFNvCzqpHA1CRZnH-32">
+          <mxCell style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="AUP4fguQQ9OvYXi2VR-i-13" vertex="1">
+            <mxGeometry y="710" width="480" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="GravitationSuite (Gravitation+Suite-3.1.1)&#xa;[ IC2 Addon ]" link="https://www.curseforge.com/minecraft/mc-mods/gravitation-suite/files/2347738" id="rv7EcFNvCzqpHA1CRZnH-33">
+          <mxCell style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="AUP4fguQQ9OvYXi2VR-i-13" vertex="1">
+            <mxGeometry y="750" width="480" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="rv7EcFNvCzqpHA1CRZnH-34" value="Item 3" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="AUP4fguQQ9OvYXi2VR-i-13" vertex="1">
           <mxGeometry y="790" width="480" height="40" as="geometry" />
         </mxCell>
