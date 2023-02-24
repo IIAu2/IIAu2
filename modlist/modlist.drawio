@@ -1,214 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2023-02-24T04:13:26.914Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 OPR/94.0.0.0" etag="J1N6ycluaFJ7u64Zwn0Z" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-24T04:42:50.321Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 OPR/94.0.0.0" etag="AfoMbzljsfDqsKbSQag7" version="20.8.23" type="github">
   <diagram id="2ciV70RLaRKz-P8guRz6" name="Page-1">
-    <mxGraphModel dx="2033" dy="5536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2259" dy="3462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <UserObject label="appliedenergistics2 (appliedenergistics2-rv6-stable-7-extended_life-v0.54.20)&#xa;[ Логистический мод ]" link="https://www.curseforge.com/minecraft/mc-mods/ae2-extended-life/files/4370127" id="ae2">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="40" y="-220" width="320" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="bdlib (bdlib-1.14.3.12-mc1.12.2) &#xa;[ Depends for Gendustry ]" link="https://www.curseforge.com/minecraft/mc-mods/bdlib/files/2518031" id="bdlib">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="40" y="-320" width="320" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="buildcraft (buildcraft-all-7.99.24.8)&#xa;[ ]" link="https://www.curseforge.com/minecraft/mc-mods/buildcraft/files/3204475" id="bc">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="40" y="-420" width="320" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="Chameleon (Chameleon-1.12-4.1.3)&#xa;[ Depends for StorageDrawers ]" link="https://www.curseforge.com/minecraft/mc-mods/chameleon/files/2450900" id="chameleon">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="40" y="-520" width="320" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="ChickenChunks (ChickenChunks-1.12.2-2.4.2.74-universal)&#xa;[ Mod with ChunkLoaders ]" link="https://www.curseforge.com/minecraft/mc-mods/chicken-chunks-1-8/files/2755785" id="chickenchunks">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="40" y="-620" width="320" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="CodeChickenLib (CodeChickenLib-1.12.2-3.2.3.358-universal)&#xa;[ Depends for ChickenChunks ]" link="https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8/files/2779848" id="codechickenlib">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="40" y="-720" width="320" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="CoFHCore (CoFHCore-1.12.2-4.6.6.1-universal)&#xa;[ Depends for many mods ]" link="https://www.curseforge.com/minecraft/mc-mods/cofh-core/files/2920433" id="cofhcore">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="40" y="-820" width="320" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="CoFHWorld (CoFHWorld-1.12.2-1.4.0.1-universal)&#xa;[ Depends for many mods ]" link="https://www.curseforge.com/minecraft/mc-mods/cofh-world/files/2920434" id="cofhworld">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="40" y="-920" width="320" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="Computronics (Computronics-1.12.2-1.6.6)&#xa;[ Дополнение для OpenComputers ]" link="https://wiki.vexatos.com/wiki:computronics" id="computronics">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="40" y="-1020" width="320" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="EnderCore (EnderCore-1.12.2-0.5.76)&#xa;[ Depends for EnderIO ]" link="https://www.curseforge.com/minecraft/mc-mods/endercore/files/2972849" id="endercore">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="40" y="-1120" width="320" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="EnderIO (EnderIO-1.12.2-5.3.70)&#xa;[ EnderIO provides many stuff ]" link="https://www.curseforge.com/minecraft/mc-mods/ender-io/files/3328811" id="enderio">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="40" y="-1220" width="320" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="EnergyControl (EnergyControl-1.12.2-0.3.1)&#xa;[ Разные инфо панели ]" link="https://www.curseforge.com/minecraft/mc-mods/energy-control/files/3829524" id="energycontrol">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="40" y="-1320" width="320" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="FastLeafDecay (FastLeafDecay-v14)&#xa;[ ]" link="https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay/files/2463272" id="fastleafdecay">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="40" y="-1420" width="320" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="forestry (forestry_1.12.2-5.8.2.387)&#xa;[ ]" link="https://www.curseforge.com/minecraft/mc-mods/forestry/files/2684780" id="forestry">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="40" y="-1520" width="320" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="Forgelin (Forgelin-1.8.4)&#xa;[ Dependency for AEAdditions ]" link="https://www.curseforge.com/minecraft/mc-mods/shadowfacts-forgelin/files/2785465" id="forgelin">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="40" y="-1620" width="320" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="ForgeMultipart (ForgeMultipart-1.12.2-2.6.2.83-universal)&#xa;[ Dependency for MrTJPCore, GT and many other mods ]" link="https://www.curseforge.com/minecraft/mc-mods/cb-multipart/files/3601708" id="forgemultipart">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="40" y="-1720" width="320" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="gendustry (gendustry-1.6.5.8-mc1.12.2)&#xa;[ ]" link="https://www.curseforge.com/minecraft/mc-mods/gendustry/files/2516215" id="gendustry">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="40" y="-1820" width="320" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="GravitationSuite (Gravitation+Suite-3.1.1)&#xa;[ IC2 Addon ]" link="https://www.curseforge.com/minecraft/mc-mods/gravitation-suite/files/2347738" id="gravisuite">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="40" y="-1920" width="320" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="GregTech (gregtech-1.12.2-2.5.0-beta)&#xa;[ Main mod in this build!!! ]" link="https://www.curseforge.com/minecraft/mc-mods/gregtech-ce-unofficial/files/4325257" id="gt">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="40" y="-2020" width="320" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="IndustrialCraft (industrialcraft-2-2.8.170-ex112)&#xa;[ Dependency for GT ]" link="https://www.curseforge.com/minecraft/mc-mods/industrial-craft/files/2746892" id="ic2">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="40" y="-2120" width="320" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="ironchest (ironchest-1.12.2-7.0.72.847)&#xa;[ Dependency for GT ]" link="https://www.curseforge.com/minecraft/mc-mods/iron-chests/files/2747935" id="ironchest">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="40" y="-2220" width="320" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="MrTJPCore (MrTJPCore-1.12.2-2.1.4.43-universal)&#xa;[ Dependency for ProjectRED ]" link="https://www.curseforge.com/minecraft/mc-mods/mrtjpcore/files/2735197" id="mrtjpcore">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="40" y="-2320" width="320" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="NuclearCraft (NuclearCraft-2o.6.1-1.12.2)&#xa;[ More realistic reactors ]" link="https://www.curseforge.com/minecraft/mc-mods/nuclearcraft-overhauled/files/3783982" id="nuclearcraft">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="40" y="-2420" width="320" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="OpenComputers (OpenComputers-MC1.12.2-1.7.7+5413028)&#xa;[ Many computers and robots ]" link="https://www.curseforge.com/minecraft/mc-mods/opencomputers/files/3966135" id="opencomputers">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="40" y="-2520" width="320" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="ProjectRed-Base (ProjectRed-1.12.2-4.9.4.120-Base)&#xa;[ Better than redstone ]" link="https://www.curseforge.com/minecraft/mc-mods/project-red-core/files/2745545" id="projredbase">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="40" y="-2620" width="320" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="ProjectRed-compat (ProjectRed-1.12.2-4.9.4.120-compat)&#xa;[ Better than redstone ]" link="https://www.curseforge.com/minecraft/mc-mods/project-red-compat/files/2745546" id="projredcompat">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="40" y="-2720" width="320" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="ProjectRed-fabrication (ProjectRed-1.12.2-4.9.4.120-fabrication)&#xa;[ Better than redstone ]" link="https://www.curseforge.com/minecraft/mc-mods/project-red-fabrication/files/2745547" id="projredfabrication">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="40" y="-2820" width="320" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="ProjectRed-integration (ProjectRed-1.12.2-4.9.4.120-integration)&#xa;[ Better than redstone ]" link="https://www.curseforge.com/minecraft/mc-mods/project-red-integration/files/2745548" id="projredintegration">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="40" y="-2920" width="320" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="ProjectRed-illumination (ProjectRed-1.12.2-4.9.4.120-illumination)&#xa;[ Better than redstone ]" link="https://www.curseforge.com/minecraft/mc-mods/project-red-illumination/files/2745549" id="projredillumination">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="40" y="-3020" width="320" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="ProjectRed-mechanical (ProjectRed-1.12.2-4.9.4.120-mechanical)&#xa;[ Better than redstone ]" link="https://www.curseforge.com/minecraft/mc-mods/project-red-expansion/files/2745550" id="projredmechanical">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="40" y="-3120" width="320" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="ProjectRed-world (ProjectRed-1.12.2-4.9.4.120-world)&#xa;[ Better than redstone ]" link="https://www.curseforge.com/minecraft/mc-mods/project-red-exploration/files/2745551" id="projredworld">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="40" y="-3220" width="320" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="Railcraft (railcraft-12.0.0)&#xa;[ Railways ]" link="https://www.curseforge.com/minecraft/mc-mods/railcraft/files/2687757" id="railcraft">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="40" y="-3320" width="320" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="RedstoneFlux (RedstoneFlux-1.12-2.1.1.1-universal)&#xa;[ Dependency for CoFHCore ]" link="https://www.curseforge.com/minecraft/mc-mods/redstone-flux/files/2920436" id="redstoneflux">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="40" y="-3420" width="320" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="RTG-U (RTG-U-1.12.2-6.1.0.0)&#xa;[ Terrain generation ]" link="https://www.curseforge.com/minecraft/mc-mods/realistic-terrain-generation-unofficial/files/4394908" id="rtg">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="40" y="-3520" width="320" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="StorageDrawers (StorageDrawers-1.12.2-5.4.2)&#xa;[ Аналог JABBA ]" link="https://www.curseforge.com/minecraft/mc-mods/storage-drawers/files/2952606" id="storagedrawers">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="40" y="-3620" width="320" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="StorageDrawersExtras (StorageDrawersExtras-1.12-3.1.0)&#xa;[ Dependency for StorageDrawers ]" link="https://www.curseforge.com/minecraft/mc-mods/storage-drawers-extras/files/2443623" id="storagedrawersextras">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="40" y="-3720" width="320" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="ThermalDynamics (ThermalDynamics-1.12.2-2.5.6.1-universal)&#xa;[ Dependency for NuclearCraft, но это не точно. По возможности уберу из сборки. ]" link="https://www.curseforge.com/minecraft/mc-mods/thermal-dynamics/files/2920505" id="thermaldynamics">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="40" y="-3820" width="320" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="ThermalFoundation (ThermalFoundation-1.12.2-2.6.7.1-universal)&#xa;[ Dependency for NuclearCraft, но это не точно. По возможности уберу из сборки. ]" link="https://www.curseforge.com/minecraft/mc-mods/thermal-foundation/files/2926428" id="thermalfoundation">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="40" y="-3920" width="320" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="UndergroundBiomesConstructs (UndergroundBiomesConstructs-1.12-1.3.14)&#xa;[ ]" link="https://www.curseforge.com/minecraft/mc-mods/underground-biomes/files/3832678" id="ubc">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="40" y="-4020" width="320" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="bspkrsCore ([1.12]bspkrsCore-universal-7.6.0.1)&#xa;[ Dependency for TreeCapitator ]" link="https://www.curseforge.com/minecraft/mc-mods/bspkrscore-updated/files" id="bspkrscore">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="40" y="-4120" width="320" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="TreeCapitator ([1.12]TreeCapitator-client-1.43.0)&#xa;[ ]" link="https://www.curseforge.com/minecraft/mc-mods/treecapitator-updated/files/2722878" id="treecapitator">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="40" y="-4220" width="320" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
         <UserObject label="architecturecraft (architecturecraft-1.12-3.108)&#xa;[ Аналог мода - carpenter ]" link="https://www.curseforge.com/minecraft/mc-mods/architecturecraft-tridev/files/4344128" tooltip="" id="architecturecraft">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="400" y="-120" width="320" height="80" as="geometry" />
@@ -365,24 +160,232 @@
           </mxCell>
         </UserObject>
         <mxCell id="group_main" value="Основа сборки" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="40" y="40" width="360" height="200" as="geometry" />
+          <mxGeometry x="40" y="40" width="2600" height="790" as="geometry" />
         </mxCell>
         <UserObject label="AEAdditions (AEAdditions-1.12.2-1.3.8)&lt;br&gt;[ Дополнение для AppliedEnergistics (бывшый ExtraCells2) ]" link="https://www.curseforge.com/minecraft/mc-mods/ae-additions-extra-cells-2-fork/files/3814371" id="aeadditions">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
             <mxGeometry x="20" y="40" width="320" height="80" as="geometry" />
           </mxCell>
         </UserObject>
+        <UserObject label="appliedenergistics2 (appliedenergistics2-rv6-stable-7-extended_life-v0.54.20)&#xa;[ Логистический мод ]" link="https://www.curseforge.com/minecraft/mc-mods/ae2-extended-life/files/4370127" id="ae2">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="20" y="160" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="bdlib (bdlib-1.14.3.12-mc1.12.2) &#xa;[ Depends for Gendustry ]" link="https://www.curseforge.com/minecraft/mc-mods/bdlib/files/2518031" id="bdlib">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="20" y="280" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="buildcraft (buildcraft-all-7.99.24.8)&#xa;[ ]" link="https://www.curseforge.com/minecraft/mc-mods/buildcraft/files/3204475" id="bc">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="20" y="400" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Chameleon (Chameleon-1.12-4.1.3)&#xa;[ Depends for StorageDrawers ]" link="https://www.curseforge.com/minecraft/mc-mods/chameleon/files/2450900" id="chameleon">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="20" y="520" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="ChickenChunks (ChickenChunks-1.12.2-2.4.2.74-universal)&#xa;[ Mod with ChunkLoaders ]" link="https://www.curseforge.com/minecraft/mc-mods/chicken-chunks-1-8/files/2755785" id="chickenchunks">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="20" y="640" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="CodeChickenLib (CodeChickenLib-1.12.2-3.2.3.358-universal)&#xa;[ Depends for ChickenChunks ]" link="https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8/files/2779848" id="codechickenlib">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="380" y="40" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="CoFHCore (CoFHCore-1.12.2-4.6.6.1-universal)&#xa;[ Depends for many mods ]" link="https://www.curseforge.com/minecraft/mc-mods/cofh-core/files/2920433" id="cofhcore">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="380" y="160" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="CoFHWorld (CoFHWorld-1.12.2-1.4.0.1-universal)&#xa;[ Depends for many mods ]" link="https://www.curseforge.com/minecraft/mc-mods/cofh-world/files/2920434" id="cofhworld">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="380" y="280" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Computronics (Computronics-1.12.2-1.6.6)&#xa;[ Дополнение для OpenComputers ]" link="https://wiki.vexatos.com/wiki:computronics" id="computronics">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="380" y="400" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="EnderCore (EnderCore-1.12.2-0.5.76)&#xa;[ Depends for EnderIO ]" link="https://www.curseforge.com/minecraft/mc-mods/endercore/files/2972849" id="endercore">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="380" y="520" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="EnderIO (EnderIO-1.12.2-5.3.70)&#xa;[ EnderIO provides many stuff ]" link="https://www.curseforge.com/minecraft/mc-mods/ender-io/files/3328811" id="enderio">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="380" y="640" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="EnergyControl (EnergyControl-1.12.2-0.3.1)&#xa;[ Разные инфо панели ]" link="https://www.curseforge.com/minecraft/mc-mods/energy-control/files/3829524" id="energycontrol">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="740" y="40" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="FastLeafDecay (FastLeafDecay-v14)&#xa;[ ]" link="https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay/files/2463272" id="fastleafdecay">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="740" y="160" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="forestry (forestry_1.12.2-5.8.2.387)&#xa;[ ]" link="https://www.curseforge.com/minecraft/mc-mods/forestry/files/2684780" id="forestry">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="740" y="280" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Forgelin (Forgelin-1.8.4)&#xa;[ Dependency for AEAdditions ]" link="https://www.curseforge.com/minecraft/mc-mods/shadowfacts-forgelin/files/2785465" id="forgelin">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="740" y="400" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="ForgeMultipart (ForgeMultipart-1.12.2-2.6.2.83-universal)&#xa;[ Dependency for MrTJPCore, GT and many other mods ]" link="https://www.curseforge.com/minecraft/mc-mods/cb-multipart/files/3601708" id="forgemultipart">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="740" y="520" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="gendustry (gendustry-1.6.5.8-mc1.12.2)&#xa;[ ]" link="https://www.curseforge.com/minecraft/mc-mods/gendustry/files/2516215" id="gendustry">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="740" y="640" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="GravitationSuite (Gravitation+Suite-3.1.1)&#xa;[ IC2 Addon ]" link="https://www.curseforge.com/minecraft/mc-mods/gravitation-suite/files/2347738" id="gravisuite">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="1100" y="40" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="GregTech (gregtech-1.12.2-2.5.0-beta)&#xa;[ Main mod in this build!!! ]" link="https://www.curseforge.com/minecraft/mc-mods/gregtech-ce-unofficial/files/4325257" id="gt">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="1100" y="160" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="IndustrialCraft (industrialcraft-2-2.8.170-ex112)&#xa;[ Dependency for GT ]" link="https://www.curseforge.com/minecraft/mc-mods/industrial-craft/files/2746892" id="ic2">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="1100" y="280" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="ironchest (ironchest-1.12.2-7.0.72.847)&#xa;[ Dependency for GT ]" link="https://www.curseforge.com/minecraft/mc-mods/iron-chests/files/2747935" id="ironchest">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="1100" y="400" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="MrTJPCore (MrTJPCore-1.12.2-2.1.4.43-universal)&#xa;[ Dependency for ProjectRED ]" link="https://www.curseforge.com/minecraft/mc-mods/mrtjpcore/files/2735197" id="mrtjpcore">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="1100" y="520" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="NuclearCraft (NuclearCraft-2o.6.1-1.12.2)&#xa;[ More realistic reactors ]" link="https://www.curseforge.com/minecraft/mc-mods/nuclearcraft-overhauled/files/3783982" id="nuclearcraft">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="1100" y="640" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="OpenComputers (OpenComputers-MC1.12.2-1.7.7+5413028)&#xa;[ Many computers and robots ]" link="https://www.curseforge.com/minecraft/mc-mods/opencomputers/files/3966135" id="opencomputers">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="1460" y="40" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="u6ard_GeCkkHx1l0nHM8-1" value="ProjectRED" style="swimlane;startSize=23;" vertex="1" parent="group_main">
+          <mxGeometry x="1450" y="130" width="340" height="660" as="geometry" />
+        </mxCell>
+        <UserObject label="ProjectRed-Base (ProjectRed-1.12.2-4.9.4.120-Base)&#xa;[ Better than redstone ]" link="https://www.curseforge.com/minecraft/mc-mods/project-red-core/files/2745545" id="projredbase">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="u6ard_GeCkkHx1l0nHM8-1" vertex="1">
+            <mxGeometry x="10" y="30" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="ProjectRed-compat (ProjectRed-1.12.2-4.9.4.120-compat)&#xa;[ Better than redstone ]" link="https://www.curseforge.com/minecraft/mc-mods/project-red-compat/files/2745546" id="projredcompat">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="u6ard_GeCkkHx1l0nHM8-1" vertex="1">
+            <mxGeometry x="10" y="120" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="ProjectRed-fabrication (ProjectRed-1.12.2-4.9.4.120-fabrication)&#xa;[ Better than redstone ]" link="https://www.curseforge.com/minecraft/mc-mods/project-red-fabrication/files/2745547" id="projredfabrication">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="u6ard_GeCkkHx1l0nHM8-1" vertex="1">
+            <mxGeometry x="10" y="210" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="ProjectRed-integration (ProjectRed-1.12.2-4.9.4.120-integration)&#xa;[ Better than redstone ]" link="https://www.curseforge.com/minecraft/mc-mods/project-red-integration/files/2745548" id="projredintegration">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="u6ard_GeCkkHx1l0nHM8-1" vertex="1">
+            <mxGeometry x="10" y="300" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="ProjectRed-illumination (ProjectRed-1.12.2-4.9.4.120-illumination)&#xa;[ Better than redstone ]" link="https://www.curseforge.com/minecraft/mc-mods/project-red-illumination/files/2745549" id="projredillumination">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="u6ard_GeCkkHx1l0nHM8-1" vertex="1">
+            <mxGeometry x="10" y="390" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="ProjectRed-mechanical (ProjectRed-1.12.2-4.9.4.120-mechanical)&#xa;[ Better than redstone ]" link="https://www.curseforge.com/minecraft/mc-mods/project-red-expansion/files/2745550" id="projredmechanical">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="u6ard_GeCkkHx1l0nHM8-1" vertex="1">
+            <mxGeometry x="10" y="480" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="ProjectRed-world (ProjectRed-1.12.2-4.9.4.120-world)&#xa;[ Better than redstone ]" link="https://www.curseforge.com/minecraft/mc-mods/project-red-exploration/files/2745551" id="projredworld">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="u6ard_GeCkkHx1l0nHM8-1" vertex="1">
+            <mxGeometry x="10" y="570" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Railcraft (railcraft-12.0.0)&#xa;[ Railways ]" link="https://www.curseforge.com/minecraft/mc-mods/railcraft/files/2687757" id="railcraft">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="1820" y="40" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="RedstoneFlux (RedstoneFlux-1.12-2.1.1.1-universal)&#xa;[ Dependency for CoFHCore ]" link="https://www.curseforge.com/minecraft/mc-mods/redstone-flux/files/2920436" id="redstoneflux">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="1820" y="160" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="RTG-U (RTG-U-1.12.2-6.1.0.0)&#xa;[ Terrain generation ]" link="https://www.curseforge.com/minecraft/mc-mods/realistic-terrain-generation-unofficial/files/4394908" id="rtg">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="1820" y="280" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="StorageDrawers (StorageDrawers-1.12.2-5.4.2)&#xa;[ Аналог JABBA ]" link="https://www.curseforge.com/minecraft/mc-mods/storage-drawers/files/2952606" id="storagedrawers">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="1820" y="400" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="StorageDrawersExtras (StorageDrawersExtras-1.12-3.1.0)&#xa;[ Dependency for StorageDrawers ]" link="https://www.curseforge.com/minecraft/mc-mods/storage-drawers-extras/files/2443623" id="storagedrawersextras">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="1820" y="520" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="ThermalDynamics (ThermalDynamics-1.12.2-2.5.6.1-universal)&#xa;[ Dependency for NuclearCraft, но это не точно. По возможности уберу из сборки. ]" link="https://www.curseforge.com/minecraft/mc-mods/thermal-dynamics/files/2920505" id="thermaldynamics">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="1820" y="640" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="ThermalFoundation (ThermalFoundation-1.12.2-2.6.7.1-universal)&#xa;[ Dependency for NuclearCraft, но это не точно. По возможности уберу из сборки. ]" link="https://www.curseforge.com/minecraft/mc-mods/thermal-foundation/files/2926428" id="thermalfoundation">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="2180" y="40" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="UndergroundBiomesConstructs (UndergroundBiomesConstructs-1.12-1.3.14)&#xa;[ ]" link="https://www.curseforge.com/minecraft/mc-mods/underground-biomes/files/3832678" id="ubc">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="2180" y="160" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="bspkrsCore ([1.12]bspkrsCore-universal-7.6.0.1)&#xa;[ Dependency for TreeCapitator ]" link="https://www.curseforge.com/minecraft/mc-mods/bspkrscore-updated/files" id="bspkrscore">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="2180" y="280" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="TreeCapitator ([1.12]TreeCapitator-client-1.43.0)&#xa;[ ]" link="https://www.curseforge.com/minecraft/mc-mods/treecapitator-updated/files/2722878" id="treecapitator">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="2180" y="400" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="group_architect" value="Архитектурные моды" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="440" y="40" width="200" height="200" as="geometry" />
+          <mxGeometry x="440" y="840" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="group_interface" value="Интерфейсные моды" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="680" y="40" width="200" height="200" as="geometry" />
+          <mxGeometry x="680" y="840" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="group_admin" value="Моды для администрирования" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="920" y="40" width="200" height="200" as="geometry" />
+          <mxGeometry x="920" y="840" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="group_dev" value="Моды для настройки сборки" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="1160" y="40" width="200" height="200" as="geometry" />
+          <mxGeometry x="1160" y="840" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
