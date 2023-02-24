@@ -399,15 +399,21 @@
             <mxGeometry y="750" width="480" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="rv7EcFNvCzqpHA1CRZnH-34" value="Item 3" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="AUP4fguQQ9OvYXi2VR-i-13" vertex="1">
-          <mxGeometry y="790" width="480" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rv7EcFNvCzqpHA1CRZnH-35" value="Item 3" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="AUP4fguQQ9OvYXi2VR-i-13" vertex="1">
-          <mxGeometry y="830" width="480" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rv7EcFNvCzqpHA1CRZnH-36" value="Item 3" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="AUP4fguQQ9OvYXi2VR-i-13" vertex="1">
-          <mxGeometry y="870" width="480" height="40" as="geometry" />
-        </mxCell>
+        <UserObject label="GregTech (gregtech-1.12.2-2.5.0-beta)&#xa;[ Main mod in this build!!! ]" link="https://www.curseforge.com/minecraft/mc-mods/gregtech-ce-unofficial/files/4325257" id="rv7EcFNvCzqpHA1CRZnH-34">
+          <mxCell style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="AUP4fguQQ9OvYXi2VR-i-13" vertex="1">
+            <mxGeometry y="790" width="480" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="IndustrialCraft (industrialcraft-2-2.8.170-ex112)&#xa;[ Dependency for GT ]" link="https://www.curseforge.com/minecraft/mc-mods/industrial-craft/files/2746892" id="rv7EcFNvCzqpHA1CRZnH-35">
+          <mxCell style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="AUP4fguQQ9OvYXi2VR-i-13" vertex="1">
+            <mxGeometry y="830" width="480" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="ironchest (ironchest-1.12.2-7.0.72.847)&#xa;[ Dependency for GT ]" link="https://www.curseforge.com/minecraft/mc-mods/iron-chests/files/2747935" id="rv7EcFNvCzqpHA1CRZnH-36">
+          <mxCell style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="AUP4fguQQ9OvYXi2VR-i-13" vertex="1">
+            <mxGeometry y="870" width="480" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="rv7EcFNvCzqpHA1CRZnH-37" value="Item 3" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="AUP4fguQQ9OvYXi2VR-i-13" vertex="1">
           <mxGeometry y="910" width="480" height="40" as="geometry" />
         </mxCell>
