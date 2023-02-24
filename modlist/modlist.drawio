@@ -369,19 +369,19 @@
             <mxGeometry x="1480" y="-220" width="320" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="zDYOa5I6kQfi5bnGjloo-1" value="Основа сборки" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="group_main" value="Основа сборки" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="40" y="40" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="zDYOa5I6kQfi5bnGjloo-2" value="Архитектурные моды" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="group_architect" value="Архитектурные моды" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="280" y="40" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="zDYOa5I6kQfi5bnGjloo-3" value="Интерфейсные моды" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="group_interface" value="Интерфейсные моды" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="520" y="40" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="zDYOa5I6kQfi5bnGjloo-4" value="Моды для администрирования" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="group_admin" value="Моды для администрирования" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="1000" y="40" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="zDYOa5I6kQfi5bnGjloo-5" value="Моды для настройки сборки" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="group_dev" value="Моды для настройки сборки" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="760" y="40" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
