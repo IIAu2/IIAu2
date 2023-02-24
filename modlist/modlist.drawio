@@ -528,7 +528,7 @@
         <mxCell id="rv7EcFNvCzqpHA1CRZnH-1" value="Моды для настройки сборки" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="2160" y="40" width="440" height="986" as="geometry" />
         </mxCell>
-        <UserObject label="base (base-1.12.2-3.14.0")&#xa;[ Depends for ContentTweaker ]" link="https://www.curseforge.com/minecraft/mc-mods/base/files/3440963" id="rv7EcFNvCzqpHA1CRZnH-2">
+        <UserObject label="base (base-1.12.2-3.14.0)&#xa;[ Depends for ContentTweaker ]" link="https://www.curseforge.com/minecraft/mc-mods/base/files/3440963" id="rv7EcFNvCzqpHA1CRZnH-2">
           <mxCell style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="rv7EcFNvCzqpHA1CRZnH-1" vertex="1">
             <mxGeometry y="26" width="440" height="40" as="geometry" />
           </mxCell>
