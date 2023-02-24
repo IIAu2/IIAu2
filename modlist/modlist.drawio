@@ -1,44 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2023-02-24T04:43:47.369Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 OPR/94.0.0.0" etag="pxozfSGeUl_Aid22ZThC" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-24T04:51:39.635Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 OPR/94.0.0.0" etag="y9iky7aVZqforYP15Daw" version="20.8.23" type="github">
   <diagram id="2ciV70RLaRKz-P8guRz6" name="Page-1">
-    <mxGraphModel dx="4066" dy="4472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2033" dy="3336" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <UserObject label="architecturecraft (architecturecraft-1.12-3.108)&#xa;[ Аналог мода - carpenter ]" link="https://www.curseforge.com/minecraft/mc-mods/architecturecraft-tridev/files/4344128" tooltip="" id="architecturecraft">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="400" y="-120" width="320" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="BiblioCraft (BiblioCraft[v2.4.6][MC1.12.2])&#xa;[ Мод с множеством красивых табличек, книжных полок и т.п. ]" link="https://www.curseforge.com/minecraft/mc-mods/bibliocraft/files/3647708" tooltip="" id="bibliocraft">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="400" y="-220" width="320" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="bonsaitrees (bonsaitrees-1.1.4-b170)&#xa;[ Мод добавляет красивые мини деревья ]" link="https://www.curseforge.com/minecraft/mc-mods/bonsai-trees/files/2846217" tooltip="" id="bonsaitrees">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="400" y="-320" width="320" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="chisel (Chisel-MC1.12.2-1.0.2.45)&#xa;[ Мод добавляет много разных строительных блоков ]" link="https://www.curseforge.com/minecraft/mc-mods/chisel/files/2915375" tooltip="" id="chisel">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="400" y="-420" width="320" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="ConnectedTexturesMod (CTM-MC1.12.2-1.0.2.31)&#xa;[ Depends for chisel ]" link="https://www.curseforge.com/minecraft/mc-mods/ctm/files/2915363" tooltip="" id="ctm">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="400" y="-520" width="320" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="mcw-bridges (mcw-bridges-1.0.6b-mc1.12.2)&#xa;[ Добавляет красивые мосты ]" link="https://www.curseforge.com/minecraft/mc-mods/macaws-bridges/files/3383460" tooltip="" id="macawbridges">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="400" y="-620" width="320" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="mcw-fences (mcw-fences-1.0.0-mc1.12.2)&#xa;[ Добавляет красивые заборы ]" link="https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls/files/3231561" tooltip="" id="macawfences">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="400" y="-620" width="320" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
         <UserObject label="gendustryjei (gendustryjei-1.0.2)&#xa;[ Connects gendustry to JEI ]" link="https://www.curseforge.com/minecraft/mc-mods/gendustry-jei-addon/files/2609434" tooltip="" id="gendustryjei">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="760" y="-120" width="320" height="80" as="geometry" />
@@ -287,7 +252,7 @@
             <mxGeometry x="1460" y="40" width="320" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="group_projred" value="ProjectRED" style="swimlane;startSize=23;" vertex="1" parent="group_main">
+        <mxCell id="group_projred" value="ProjectRED" style="swimlane;startSize=23;" parent="group_main" vertex="1">
           <mxGeometry x="1450" y="130" width="340" height="660" as="geometry" />
         </mxCell>
         <UserObject label="ProjectRed-Base (ProjectRed-1.12.2-4.9.4.120-Base)&#xa;[ Better than redstone ]" link="https://www.curseforge.com/minecraft/mc-mods/project-red-core/files/2745545" id="projredbase">
@@ -376,16 +341,51 @@
           </mxCell>
         </UserObject>
         <mxCell id="group_architect" value="Архитектурные моды" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="440" y="840" width="200" height="200" as="geometry" />
+          <mxGeometry x="400" y="1040" width="360" height="860" as="geometry" />
         </mxCell>
+        <UserObject label="architecturecraft (architecturecraft-1.12-3.108)&#xa;[ Аналог мода - carpenter ]" link="https://www.curseforge.com/minecraft/mc-mods/architecturecraft-tridev/files/4344128" tooltip="" id="architecturecraft">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_architect" vertex="1">
+            <mxGeometry x="20" y="40" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="BiblioCraft (BiblioCraft[v2.4.6][MC1.12.2])&#xa;[ Мод с множеством красивых табличек, книжных полок и т.п. ]" link="https://www.curseforge.com/minecraft/mc-mods/bibliocraft/files/3647708" tooltip="" id="bibliocraft">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_architect" vertex="1">
+            <mxGeometry x="20" y="160" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="bonsaitrees (bonsaitrees-1.1.4-b170)&#xa;[ Мод добавляет красивые мини деревья ]" link="https://www.curseforge.com/minecraft/mc-mods/bonsai-trees/files/2846217" tooltip="" id="bonsaitrees">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_architect" vertex="1">
+            <mxGeometry x="20" y="280" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="chisel (Chisel-MC1.12.2-1.0.2.45)&#xa;[ Мод добавляет много разных строительных блоков ]" link="https://www.curseforge.com/minecraft/mc-mods/chisel/files/2915375" tooltip="" id="chisel">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_architect" vertex="1">
+            <mxGeometry x="20" y="400" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="ConnectedTexturesMod (CTM-MC1.12.2-1.0.2.31)&#xa;[ Depends for chisel ]" link="https://www.curseforge.com/minecraft/mc-mods/ctm/files/2915363" tooltip="" id="ctm">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_architect" vertex="1">
+            <mxGeometry x="20" y="520" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="mcw-fences (mcw-fences-1.0.0-mc1.12.2)&#xa;[ Добавляет красивые заборы ]" link="https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls/files/3231561" tooltip="" id="macawfences">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_architect" vertex="1">
+            <mxGeometry x="20" y="640" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="mcw-bridges (mcw-bridges-1.0.6b-mc1.12.2)&#xa;[ Добавляет красивые мосты ]" link="https://www.curseforge.com/minecraft/mc-mods/macaws-bridges/files/3383460" tooltip="" id="macawbridges">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_architect" vertex="1">
+            <mxGeometry x="20" y="760" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="group_interface" value="Интерфейсные моды" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="680" y="840" width="200" height="200" as="geometry" />
+          <mxGeometry x="2120" y="-240" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="group_admin" value="Моды для администрирования" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="920" y="840" width="200" height="200" as="geometry" />
+          <mxGeometry x="2360" y="-240" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="group_dev" value="Моды для настройки сборки" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="1160" y="840" width="200" height="200" as="geometry" />
+          <mxGeometry x="2600" y="-240" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
