@@ -528,21 +528,31 @@
         <mxCell id="rv7EcFNvCzqpHA1CRZnH-1" value="Моды для настройки сборки" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="2160" y="40" width="440" height="986" as="geometry" />
         </mxCell>
-        <mxCell id="rv7EcFNvCzqpHA1CRZnH-2" value="Item 1" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="rv7EcFNvCzqpHA1CRZnH-1" vertex="1">
-          <mxGeometry y="26" width="440" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rv7EcFNvCzqpHA1CRZnH-3" value="Item 2" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="rv7EcFNvCzqpHA1CRZnH-1" vertex="1">
-          <mxGeometry y="56" width="440" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rv7EcFNvCzqpHA1CRZnH-4" value="Item 3" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="rv7EcFNvCzqpHA1CRZnH-1" vertex="1">
-          <mxGeometry y="86" width="440" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rv7EcFNvCzqpHA1CRZnH-150" value="Item 3" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="rv7EcFNvCzqpHA1CRZnH-1" vertex="1">
-          <mxGeometry y="116" width="440" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rv7EcFNvCzqpHA1CRZnH-151" value="Item 3" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="rv7EcFNvCzqpHA1CRZnH-1" vertex="1">
-          <mxGeometry y="146" width="440" height="40" as="geometry" />
-        </mxCell>
+        <UserObject label="base (base-1.12.2-3.14.0")&#xa;[ Depends for ContentTweaker ]" link="https://www.curseforge.com/minecraft/mc-mods/base/files/3440963" id="rv7EcFNvCzqpHA1CRZnH-2">
+          <mxCell style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="rv7EcFNvCzqpHA1CRZnH-1" vertex="1">
+            <mxGeometry y="26" width="440" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="ContentTweaker (ContentTweaker-1.12.2-4.10.0)&#xa;[ Addon for CraftTweaker ]" link="https://www.curseforge.com/minecraft/mc-mods/contenttweaker/files/3331364" id="rv7EcFNvCzqpHA1CRZnH-3">
+          <mxCell style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="rv7EcFNvCzqpHA1CRZnH-1" vertex="1">
+            <mxGeometry y="56" width="440" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="CraftTweaker2 (CraftTweaker2-1.12-4.1.20.684)&#xa;[ With CraftTweaker you can change recipes, script events, add new commands and even change item properties! ]" link="https://www.curseforge.com/minecraft/mc-mods/crafttweaker/files/4379998" id="rv7EcFNvCzqpHA1CRZnH-4">
+          <mxCell style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="rv7EcFNvCzqpHA1CRZnH-1" vertex="1">
+            <mxGeometry y="86" width="440" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="CustomOreGen (CustomOreGen-1.12-1.8.1)&#xa;[ Configure ore gen ]" link="https://www.curseforge.com/minecraft/mc-mods/customoregen/files/2568549" id="rv7EcFNvCzqpHA1CRZnH-150">
+          <mxCell style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="rv7EcFNvCzqpHA1CRZnH-1" vertex="1">
+            <mxGeometry y="116" width="440" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="EnderTweaker (EnderTweaker-1.12.2-1.2.3)&#xa;[ Ender Tweaker is an interface between EnderIO and CraftTweaker ]" link="https://www.curseforge.com/minecraft/mc-mods/endertweaker/files/3474382" id="rv7EcFNvCzqpHA1CRZnH-151">
+          <mxCell style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="rv7EcFNvCzqpHA1CRZnH-1" vertex="1">
+            <mxGeometry y="146" width="440" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="rv7EcFNvCzqpHA1CRZnH-152" value="Item 3" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="rv7EcFNvCzqpHA1CRZnH-1" vertex="1">
           <mxGeometry y="176" width="440" height="40" as="geometry" />
         </mxCell>
