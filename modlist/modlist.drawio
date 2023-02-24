@@ -85,7 +85,7 @@
             <mxGeometry x="40" y="-1620" width="320" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="ForgeMultipart (ForgeMultipart-1.12.2-2.6.2.83-universal)&#xa;[ Dependency for ProjRED, GT and many other mods ]" link="https://www.curseforge.com/minecraft/mc-mods/cb-multipart/files/3601708" id="forgemultipart">
+        <UserObject label="ForgeMultipart (ForgeMultipart-1.12.2-2.6.2.83-universal)&#xa;[ Dependency for MrTJPCore, GT and many other mods ]" link="https://www.curseforge.com/minecraft/mc-mods/cb-multipart/files/3601708" id="forgemultipart">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
             <mxGeometry x="40" y="-1720" width="320" height="80" as="geometry" />
           </mxCell>
@@ -115,6 +115,16 @@
             <mxGeometry x="40" y="-2220" width="320" height="80" as="geometry" />
           </mxCell>
         </UserObject>
+        <UserObject label="MrTJPCore (MrTJPCore-1.12.2-2.1.4.43-universal)&#xa;[ Dependency for ProjectRED ]" link="https://www.curseforge.com/minecraft/mc-mods/mrtjpcore/files/2735197" id="mrtjpcore">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="40" y="-2320" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="NuclearCraft (NuclearCraft-2o.6.1-1.12.2)&#xa;[ More realistic reactors ]" link="https://www.curseforge.com/minecraft/mc-mods/nuclearcraft-overhauled/files/3783982" id="nuclearcraft">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="40" y="-2420" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
 
 
         <UserObject label="architecturecraft (architecturecraft-1.12-3.108)&#xa;[ Аналог мода - carpenter ]" link="https://www.curseforge.com/minecraft/mc-mods/architecturecraft-tridev/files/4344128" tooltip="" id="architecturecraft">
@@ -142,6 +152,16 @@
             <mxGeometry x="400" y="-520" width="320" height="80" as="geometry" />
           </mxCell>
         </UserObject>
+        <UserObject label="mcw-bridges (mcw-bridges-1.0.6b-mc1.12.2)&#xa;[ Добавляет красивые мосты ]" link="https://www.curseforge.com/minecraft/mc-mods/macaws-bridges/files/3383460" tooltip="" id="macawbridges">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="400" y="-620" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="mcw-fences (mcw-fences-1.0.0-mc1.12.2)&#xa;[ Добавляет красивые заборы ]" link="https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls/files/3231561" tooltip="" id="macawfences">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="400" y="-620" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
 
 
         <UserObject label="gendustryjei (gendustryjei-1.0.2)&#xa;[ Connects gendustry to JEI ]" link="https://www.curseforge.com/minecraft/mc-mods/gendustry-jei-addon/files/2609434" tooltip="" id="gendustryjei">
@@ -159,9 +179,54 @@
             <mxGeometry x="760" y="-320" width="320" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="jeibees (jeibees-0.9.0.5-mc1.12.2)&#xa;[ Addon for JEI shows some bee info]" link="https://www.curseforge.com/minecraft/mc-mods/jei-bees/files/2490058" tooltip="" id="jeibees">
+        <UserObject label="jeibees (jeibees-0.9.0.5-mc1.12.2)&#xa;[ Addon for JEI shows some bee info ]" link="https://www.curseforge.com/minecraft/mc-mods/jei-bees/files/2490058" tooltip="" id="jeibees">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
             <mxGeometry x="760" y="-420" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="jeiintegration (jeiintegration_1.12.2-1.6.0)&#xa;[ The mod provides JEI recipe handlers for other mods ]" link="https://www.curseforge.com/minecraft/mc-mods/jei-integration/files/2951731" tooltip="" id="jeiintegration">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="760" y="-520" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="jei (jei_1.12.2-4.16.1.1000)&#xa;[ The recipe viewing mod ]" link="https://www.curseforge.com/minecraft/mc-mods/jei/files/4364085" tooltip="" id="jei">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="760" y="-620" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="journeymap (journeymap-1.12.2-5.7.1.jar.disabled)&#xa;[ ]" link="https://www.curseforge.com/minecraft/mc-mods/journeymap/files/2916002" tooltip="" id="journeymap">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="760" y="-720" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="JustEnoughCalculation (JustEnoughCalculation-1.12.2-3.2.7)&#xa;[ Resource calculator ]" link="https://www.curseforge.com/minecraft/mc-mods/just-enough-calculation/files/3524685" tooltip="" id="jeicalc">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="760" y="-820" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="JustEnoughEnergistics (JustEnoughEnergistics-1.12.2-1.0.8)&#xa;[ Integration JEI with AE2 ]" link="https://www.curseforge.com/minecraft/mc-mods/just-enough-energistics-jee/files/2783832" tooltip="" id="jee">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="760" y="-920" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="JustEnoughResources (JustEnoughResources-1.12.2-0.9.2.60)&#xa;[ JEI Addon ]" link="https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer/files/2728585" tooltip="" id="jer">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="760" y="-1020" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="LunatriusCore (LunatriusCore-1.12.2-1.2.0.42-universal)&#xa;[ Dependency for InGameInfoXML ]" link="https://www.curseforge.com/minecraft/mc-mods/lunatriuscore/files/2489549" tooltip="" id="lunatriuscore">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="760" y="-1120" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="MapWriter (MapWriter-1.12.2-2.8.2)&#xa;[ ]" link="https://www.curseforge.com/minecraft/mc-mods/mapwriter-2/files/2510933" tooltip="" id="mapwriter">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="760" y="-1220" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="NotEnoughEnergistics (NotEnoughEnergistics-1.12.2-2.0.3)&#xa;[ Integration JEI with AE2 ]" link="https://www.curseforge.com/minecraft/mc-mods/not-enough-energistics/files/4382001" tooltip="" id="nee">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="760" y="-1320" width="320" height="80" as="geometry" />
           </mxCell>
         </UserObject>
 
@@ -190,6 +255,11 @@
         <UserObject label="EnderTweaker (EnderTweaker-1.12.2-1.2.3)&#xa;[ Ender Tweaker is an interface between EnderIO and CraftTweaker ]" link="https://www.curseforge.com/minecraft/mc-mods/endertweaker/files/3474382" id="endertweaker">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
             <mxGeometry x="1120" y="-520" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="LootTweaker (LootTweaker-0.3.1+MC1.12.2)&#xa;[ LootTweaker is an addon for CraftTweaker that allows loot tables to be tweaked with ZenScript files ]" link="https://www.curseforge.com/minecraft/mc-mods/loottweaker/files/3507866" id="loottweaker">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="1120" y="-620" width="320" height="80" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
