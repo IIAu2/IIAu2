@@ -1,14 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2023-02-24T04:09:45.551Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 OPR/94.0.0.0" etag="ndW66pBNU2khz8Rd00Ed" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-24T04:13:26.914Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 OPR/94.0.0.0" etag="J1N6ycluaFJ7u64Zwn0Z" version="20.8.23" type="github">
   <diagram id="2ciV70RLaRKz-P8guRz6" name="Page-1">
     <mxGraphModel dx="2033" dy="5536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <UserObject label="AEAdditions (AEAdditions-1.12.2-1.3.8)&lt;br&gt;[ Дополнение для AppliedEnergistics (бывшый ExtraCells2) ]" link="https://www.curseforge.com/minecraft/mc-mods/ae-additions-extra-cells-2-fork/files/3814371" id="aeadditions">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="40" y="-120" width="320" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
         <UserObject label="appliedenergistics2 (appliedenergistics2-rv6-stable-7-extended_life-v0.54.20)&#xa;[ Логистический мод ]" link="https://www.curseforge.com/minecraft/mc-mods/ae2-extended-life/files/4370127" id="ae2">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="40" y="-220" width="320" height="80" as="geometry" />
@@ -369,20 +364,25 @@
             <mxGeometry x="1480" y="-220" width="320" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="group_main" value="Основа сборки" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="200" height="200" as="geometry" />
+        <mxCell id="group_main" value="Основа сборки" style="swimlane;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="360" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="group_architect" value="Архитектурные моды" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="280" y="40" width="200" height="200" as="geometry" />
+        <UserObject label="AEAdditions (AEAdditions-1.12.2-1.3.8)&lt;br&gt;[ Дополнение для AppliedEnergistics (бывшый ExtraCells2) ]" link="https://www.curseforge.com/minecraft/mc-mods/ae-additions-extra-cells-2-fork/files/3814371" id="aeadditions">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="20" y="40" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="group_architect" value="Архитектурные моды" style="swimlane;" parent="1" vertex="1">
+          <mxGeometry x="440" y="40" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="group_interface" value="Интерфейсные моды" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="520" y="40" width="200" height="200" as="geometry" />
+        <mxCell id="group_interface" value="Интерфейсные моды" style="swimlane;" parent="1" vertex="1">
+          <mxGeometry x="680" y="40" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="group_admin" value="Моды для администрирования" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="40" width="200" height="200" as="geometry" />
+        <mxCell id="group_admin" value="Моды для администрирования" style="swimlane;" parent="1" vertex="1">
+          <mxGeometry x="920" y="40" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="group_dev" value="Моды для настройки сборки" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="760" y="40" width="200" height="200" as="geometry" />
+        <mxCell id="group_dev" value="Моды для настройки сборки" style="swimlane;" parent="1" vertex="1">
+          <mxGeometry x="1160" y="40" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
