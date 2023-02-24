@@ -291,37 +291,37 @@
           <mxGeometry x="1450" y="130" width="340" height="660" as="geometry" />
         </mxCell>
         <UserObject label="ProjectRed-Base (ProjectRed-1.12.2-4.9.4.120-Base)&#xa;[ Better than redstone ]" link="https://www.curseforge.com/minecraft/mc-mods/project-red-core/files/2745545" id="projredbase">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="u6ard_GeCkkHx1l0nHM8-1" vertex="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_projred" vertex="1">
             <mxGeometry x="10" y="30" width="320" height="80" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="ProjectRed-compat (ProjectRed-1.12.2-4.9.4.120-compat)&#xa;[ Better than redstone ]" link="https://www.curseforge.com/minecraft/mc-mods/project-red-compat/files/2745546" id="projredcompat">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="u6ard_GeCkkHx1l0nHM8-1" vertex="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_projred" vertex="1">
             <mxGeometry x="10" y="120" width="320" height="80" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="ProjectRed-fabrication (ProjectRed-1.12.2-4.9.4.120-fabrication)&#xa;[ Better than redstone ]" link="https://www.curseforge.com/minecraft/mc-mods/project-red-fabrication/files/2745547" id="projredfabrication">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="u6ard_GeCkkHx1l0nHM8-1" vertex="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_projred" vertex="1">
             <mxGeometry x="10" y="210" width="320" height="80" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="ProjectRed-integration (ProjectRed-1.12.2-4.9.4.120-integration)&#xa;[ Better than redstone ]" link="https://www.curseforge.com/minecraft/mc-mods/project-red-integration/files/2745548" id="projredintegration">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="u6ard_GeCkkHx1l0nHM8-1" vertex="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_projred" vertex="1">
             <mxGeometry x="10" y="300" width="320" height="80" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="ProjectRed-illumination (ProjectRed-1.12.2-4.9.4.120-illumination)&#xa;[ Better than redstone ]" link="https://www.curseforge.com/minecraft/mc-mods/project-red-illumination/files/2745549" id="projredillumination">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="u6ard_GeCkkHx1l0nHM8-1" vertex="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_projred" vertex="1">
             <mxGeometry x="10" y="390" width="320" height="80" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="ProjectRed-mechanical (ProjectRed-1.12.2-4.9.4.120-mechanical)&#xa;[ Better than redstone ]" link="https://www.curseforge.com/minecraft/mc-mods/project-red-expansion/files/2745550" id="projredmechanical">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="u6ard_GeCkkHx1l0nHM8-1" vertex="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_projred" vertex="1">
             <mxGeometry x="10" y="480" width="320" height="80" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="ProjectRed-world (ProjectRed-1.12.2-4.9.4.120-world)&#xa;[ Better than redstone ]" link="https://www.curseforge.com/minecraft/mc-mods/project-red-exploration/files/2745551" id="projredworld">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="u6ard_GeCkkHx1l0nHM8-1" vertex="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_projred" vertex="1">
             <mxGeometry x="10" y="570" width="320" height="80" as="geometry" />
           </mxCell>
         </UserObject>
