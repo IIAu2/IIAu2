@@ -205,21 +205,31 @@
         <mxCell id="AUP4fguQQ9OvYXi2VR-i-9" value="Архитектурные моды" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="600" y="40" width="440" height="986" as="geometry" />
         </mxCell>
-        <mxCell id="AUP4fguQQ9OvYXi2VR-i-10" value="Item 1" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="AUP4fguQQ9OvYXi2VR-i-9" vertex="1">
-          <mxGeometry y="26" width="440" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="AUP4fguQQ9OvYXi2VR-i-11" value="Item 2" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="AUP4fguQQ9OvYXi2VR-i-9" vertex="1">
-          <mxGeometry y="56" width="440" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="AUP4fguQQ9OvYXi2VR-i-12" value="Item 3" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="AUP4fguQQ9OvYXi2VR-i-9" vertex="1">
-          <mxGeometry y="86" width="440" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rv7EcFNvCzqpHA1CRZnH-44" value="Item 3" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="AUP4fguQQ9OvYXi2VR-i-9" vertex="1">
-          <mxGeometry y="116" width="440" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rv7EcFNvCzqpHA1CRZnH-45" value="Item 3" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="AUP4fguQQ9OvYXi2VR-i-9" vertex="1">
-          <mxGeometry y="146" width="440" height="40" as="geometry" />
-        </mxCell>
+        <UserObject label="architecturecraft (architecturecraft-1.12-3.108)&#xa;[ Аналог мода - carpenter ]" link="https://www.curseforge.com/minecraft/mc-mods/architecturecraft-tridev/files/4344128" tooltip="" id="AUP4fguQQ9OvYXi2VR-i-10">
+          <mxCell style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="AUP4fguQQ9OvYXi2VR-i-9" vertex="1">
+            <mxGeometry y="26" width="440" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="BiblioCraft (BiblioCraft[v2.4.6][MC1.12.2])&#xa;[ Мод с множеством красивых табличек, книжных полок и т.п. ]" link="https://www.curseforge.com/minecraft/mc-mods/bibliocraft/files/3647708" tooltip="" id="AUP4fguQQ9OvYXi2VR-i-11">
+          <mxCell style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="AUP4fguQQ9OvYXi2VR-i-9" vertex="1">
+            <mxGeometry y="56" width="440" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="bonsaitrees (bonsaitrees-1.1.4-b170)&#xa;[ Мод добавляет красивые мини деревья ]" link="https://www.curseforge.com/minecraft/mc-mods/bonsai-trees/files/2846217" tooltip="" id="AUP4fguQQ9OvYXi2VR-i-12">
+          <mxCell style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="AUP4fguQQ9OvYXi2VR-i-9" vertex="1">
+            <mxGeometry y="86" width="440" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="chisel (Chisel-MC1.12.2-1.0.2.45)&#xa;[ Мод добавляет много разных строительных блоков ]" link="https://www.curseforge.com/minecraft/mc-mods/chisel/files/2915375" tooltip="" id="AUP4fguQQ9OvYXi2VR-i-44">
+          <mxCell style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="AUP4fguQQ9OvYXi2VR-i-9" vertex="1">
+            <mxGeometry y="116" width="440" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="ConnectedTexturesMod (CTM-MC1.12.2-1.0.2.31)&#xa;[ Depends for chisel ]" link="https://www.curseforge.com/minecraft/mc-mods/ctm/files/2915363" tooltip="" id="AUP4fguQQ9OvYXi2VR-i-45">
+          <mxCell style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="AUP4fguQQ9OvYXi2VR-i-9" vertex="1">
+            <mxGeometry y="146" width="440" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="rv7EcFNvCzqpHA1CRZnH-46" value="Item 3" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="AUP4fguQQ9OvYXi2VR-i-9" vertex="1">
           <mxGeometry y="176" width="440" height="40" as="geometry" />
         </mxCell>
