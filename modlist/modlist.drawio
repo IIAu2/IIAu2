@@ -287,7 +287,7 @@
             <mxGeometry x="1460" y="40" width="320" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="u6ard_GeCkkHx1l0nHM8-1" value="ProjectRED" style="swimlane;startSize=23;" vertex="1" parent="group_main">
+        <mxCell id="group_projred" value="ProjectRED" style="swimlane;startSize=23;" vertex="1" parent="group_main">
           <mxGeometry x="1450" y="130" width="340" height="660" as="geometry" />
         </mxCell>
         <UserObject label="ProjectRed-Base (ProjectRed-1.12.2-4.9.4.120-Base)&#xa;[ Better than redstone ]" link="https://www.curseforge.com/minecraft/mc-mods/project-red-core/files/2745545" id="projredbase">
