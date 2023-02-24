@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-24T04:42:50.321Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 OPR/94.0.0.0" etag="AfoMbzljsfDqsKbSQag7" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-24T04:43:47.369Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 OPR/94.0.0.0" etag="pxozfSGeUl_Aid22ZThC" version="20.8.23" type="github">
   <diagram id="2ciV70RLaRKz-P8guRz6" name="Page-1">
-    <mxGraphModel dx="2259" dy="3462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4066" dy="4472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -160,7 +160,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="group_main" value="Основа сборки" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="40" y="40" width="2600" height="790" as="geometry" />
+          <mxGeometry x="400" y="40" width="2600" height="790" as="geometry" />
         </mxCell>
         <UserObject label="AEAdditions (AEAdditions-1.12.2-1.3.8)&lt;br&gt;[ Дополнение для AppliedEnergistics (бывшый ExtraCells2) ]" link="https://www.curseforge.com/minecraft/mc-mods/ae-additions-extra-cells-2-fork/files/3814371" id="aeadditions">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
