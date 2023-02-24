@@ -378,6 +378,11 @@
             <mxGeometry x="380" y="640" width="320" height="80" as="geometry" />
           </mxCell>
         </UserObject>
+        <UserObject label="NotEnoughItems (NotEnoughItems-1.12.2-2.4.3.245-universal)&#xa;[ ]" link="https://www.curseforge.com/minecraft/mc-mods/not-enough-items-1-8/files/2755792" tooltip="" id="nei">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_interface" vertex="1">
+            <mxGeometry x="380" y="720" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
         <UserObject label="OptiFine (OptiFine_1.12.2_HD_U_G5)&#xa;[ ]" link="https://optifine.net/downloads" tooltip="" id="optifine">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_interface" vertex="1">
             <mxGeometry x="380" y="760" width="320" height="80" as="geometry" />
