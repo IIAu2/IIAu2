@@ -1,0 +1,680 @@
+<mxfile host="app.diagrams.net" modified="2023-02-24T05:31:42.857Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 OPR/94.0.0.0" etag="TY_ILQaQR7o7yTZuvi2P" version="20.8.23" type="github">
+  <diagram id="2ciV70RLaRKz-P8guRz6" name="Page-1">
+    <mxGraphModel dx="2904" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="group_main" value="Основа сборки" style="swimlane;" parent="1" vertex="1">
+          <mxGeometry x="400" y="40" width="2600" height="790" as="geometry" />
+        </mxCell>
+        <UserObject label="AEAdditions (AEAdditions-1.12.2-1.3.8)&lt;br&gt;[ Дополнение для AppliedEnergistics (бывшый ExtraCells2) ]" link="https://www.curseforge.com/minecraft/mc-mods/ae-additions-extra-cells-2-fork/files/3814371" id="aeadditions">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="20" y="40" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="s7wWyFeA-cl3wrVjsFlN-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="group_main" source="ae2" target="aeadditions">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="appliedenergistics2 (appliedenergistics2-rv6-stable-7-extended_life-v0.54.20)&#xa;[ Логистический мод ]" link="https://www.curseforge.com/minecraft/mc-mods/ae2-extended-life/files/4370127" id="ae2">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="20" y="160" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="CpvqtGxYvZF3OOyy89xH-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="group_main" source="bdlib" target="gendustry" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="10" y="320" />
+              <mxPoint x="10" y="740" />
+              <mxPoint x="900" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="bdlib (bdlib-1.14.3.12-mc1.12.2) &#xa;[ Depends for Gendustry ]" link="https://www.curseforge.com/minecraft/mc-mods/bdlib/files/2518031" id="bdlib">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="20" y="280" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="buildcraft (buildcraft-all-7.99.24.8)&#xa;[ ]" link="https://www.curseforge.com/minecraft/mc-mods/buildcraft/files/3204475" id="bc">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="20" y="400" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="s7wWyFeA-cl3wrVjsFlN-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="group_main" source="chameleon" target="storagedrawers">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-10" y="560" />
+              <mxPoint x="-10" y="850" />
+              <mxPoint x="2150" y="850" />
+              <mxPoint x="2150" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Chameleon (Chameleon-1.12-4.1.3)&#xa;[ Depends for StorageDrawers ]" link="https://www.curseforge.com/minecraft/mc-mods/chameleon/files/2450900" id="chameleon">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="20" y="520" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="ChickenChunks (ChickenChunks-1.12.2-2.4.2.74-universal)&#xa;[ Mod with ChunkLoaders ]" link="https://www.curseforge.com/minecraft/mc-mods/chicken-chunks-1-8/files/2755785" id="chickenchunks">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="20" y="640" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="CpvqtGxYvZF3OOyy89xH-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="group_main" source="codechickenlib" target="chickenchunks" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="80" />
+              <mxPoint x="370" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CpvqtGxYvZF3OOyy89xH-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="group_main" source="codechickenlib" target="forgemultipart" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="730" y="80" />
+              <mxPoint x="730" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="CodeChickenLib (CodeChickenLib-1.12.2-3.2.3.358-universal)&#xa;[ Depends for ChickenChunks ]" link="https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8/files/2779848" id="codechickenlib">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="380" y="40" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="s7wWyFeA-cl3wrVjsFlN-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="group_main" source="cofhcore" target="cofhworld">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="CoFHCore (CoFHCore-1.12.2-4.6.6.1-universal)&#xa;[ Depends for many mods ]" link="https://www.curseforge.com/minecraft/mc-mods/cofh-core/files/2920433" id="cofhcore">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="380" y="160" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="CoFHWorld (CoFHWorld-1.12.2-1.4.0.1-universal)&#xa;[ Depends for many mods ]" link="https://www.curseforge.com/minecraft/mc-mods/cofh-world/files/2920434" id="cofhworld">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="380" y="280" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Computronics (Computronics-1.12.2-1.6.6)&#xa;[ Дополнение для OpenComputers ]" link="https://wiki.vexatos.com/wiki:computronics" id="computronics">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="380" y="400" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="CpvqtGxYvZF3OOyy89xH-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="group_main" source="endercore" target="enderio" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="EnderCore (EnderCore-1.12.2-0.5.76)&#xa;[ Depends for EnderIO ]" link="https://www.curseforge.com/minecraft/mc-mods/endercore/files/2972849" id="endercore">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="380" y="520" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="EnderIO (EnderIO-1.12.2-5.3.70)&#xa;[ EnderIO provides many stuff ]" link="https://www.curseforge.com/minecraft/mc-mods/ender-io/files/3328811" id="enderio">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="380" y="640" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="EnergyControl (EnergyControl-1.12.2-0.3.1)&#xa;[ Разные инфо панели ]" link="https://www.curseforge.com/minecraft/mc-mods/energy-control/files/3829524" id="energycontrol">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="740" y="40" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="FastLeafDecay (FastLeafDecay-v14)&#xa;[ ]" link="https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay/files/2463272" id="fastleafdecay">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="740" y="160" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="s7wWyFeA-cl3wrVjsFlN-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="group_main" source="forestry" target="storagedrawersextras">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1070" y="320" />
+              <mxPoint x="1070" y="810" />
+              <mxPoint x="1800" y="810" />
+              <mxPoint x="1800" y="610" />
+              <mxPoint x="1980" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="forestry (forestry_1.12.2-5.8.2.387)&#xa;[ ]" link="https://www.curseforge.com/minecraft/mc-mods/forestry/files/2684780" id="forestry">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="740" y="280" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="CpvqtGxYvZF3OOyy89xH-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="group_main" source="forgelin" target="aeadditions" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="900" y="380" />
+              <mxPoint x="360" y="380" />
+              <mxPoint x="360" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Forgelin (Forgelin-1.8.4)&#xa;[ Dependency for AEAdditions ]" link="https://www.curseforge.com/minecraft/mc-mods/shadowfacts-forgelin/files/2785465" id="forgelin">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="740" y="400" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="CpvqtGxYvZF3OOyy89xH-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="group_main" source="forgemultipart" target="gt" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="ForgeMultipart (ForgeMultipart-1.12.2-2.6.2.83-universal)&#xa;[ Dependency for MrTJPCore, GT and many other mods ]" link="https://www.curseforge.com/minecraft/mc-mods/cb-multipart/files/3601708" id="forgemultipart">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="740" y="520" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="gendustry (gendustry-1.6.5.8-mc1.12.2)&#xa;[ ]" link="https://www.curseforge.com/minecraft/mc-mods/gendustry/files/2516215" id="gendustry">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="740" y="640" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="GravitationSuite (Gravitation+Suite-3.1.1)&#xa;[ IC2 Addon ]" link="https://www.curseforge.com/minecraft/mc-mods/gravitation-suite/files/2347738" id="gravisuite">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="1100" y="40" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="GregTech (gregtech-1.12.2-2.5.0-beta)&#xa;[ Main mod in this build!!! ]" link="https://www.curseforge.com/minecraft/mc-mods/gregtech-ce-unofficial/files/4325257" id="gt">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="1100" y="160" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="CpvqtGxYvZF3OOyy89xH-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="group_main" source="ic2" target="gt" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s7wWyFeA-cl3wrVjsFlN-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="group_main" source="ic2" target="energycontrol">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1090" y="320" />
+              <mxPoint x="1090" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="IndustrialCraft (industrialcraft-2-2.8.170-ex112)&#xa;[ Dependency for GT ]" link="https://www.curseforge.com/minecraft/mc-mods/industrial-craft/files/2746892" id="ic2">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="1100" y="280" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="ironchest (ironchest-1.12.2-7.0.72.847)&lt;br&gt;[ ]" link="https://www.curseforge.com/minecraft/mc-mods/iron-chests/files/2747935" id="ironchest">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="1100" y="400" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="s7wWyFeA-cl3wrVjsFlN-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="group_main" source="mrtjpcore" target="group_projred">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1430" y="560" />
+              <mxPoint x="1430" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="MrTJPCore (MrTJPCore-1.12.2-2.1.4.43-universal)&#xa;[ Dependency for ProjectRED ]" link="https://www.curseforge.com/minecraft/mc-mods/mrtjpcore/files/2735197" id="mrtjpcore">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="1100" y="520" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="NuclearCraft (NuclearCraft-2o.6.1-1.12.2)&#xa;[ More realistic reactors ]" link="https://www.curseforge.com/minecraft/mc-mods/nuclearcraft-overhauled/files/3783982" id="nuclearcraft">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="1100" y="640" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="s7wWyFeA-cl3wrVjsFlN-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="group_main" source="opencomputers" target="computronics">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1440" y="80" />
+              <mxPoint x="1440" y="30" />
+              <mxPoint x="350" y="30" />
+              <mxPoint x="350" y="390" />
+              <mxPoint x="540" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="OpenComputers (OpenComputers-MC1.12.2-1.7.7+5413028)&#xa;[ Many computers and robots ]" link="https://www.curseforge.com/minecraft/mc-mods/opencomputers/files/3966135" id="opencomputers">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="1460" y="40" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="group_projred" value="ProjectRED" style="swimlane;startSize=23;" parent="group_main" vertex="1">
+          <mxGeometry x="1450" y="130" width="340" height="660" as="geometry" />
+        </mxCell>
+        <UserObject label="ProjectRed-Base (ProjectRed-1.12.2-4.9.4.120-Base)&#xa;[ Better than redstone ]" link="https://www.curseforge.com/minecraft/mc-mods/project-red-core/files/2745545" id="projredbase">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_projred" vertex="1">
+            <mxGeometry x="10" y="30" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="ProjectRed-compat (ProjectRed-1.12.2-4.9.4.120-compat)&#xa;[ Better than redstone ]" link="https://www.curseforge.com/minecraft/mc-mods/project-red-compat/files/2745546" id="projredcompat">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_projred" vertex="1">
+            <mxGeometry x="10" y="120" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="ProjectRed-fabrication (ProjectRed-1.12.2-4.9.4.120-fabrication)&#xa;[ Better than redstone ]" link="https://www.curseforge.com/minecraft/mc-mods/project-red-fabrication/files/2745547" id="projredfabrication">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_projred" vertex="1">
+            <mxGeometry x="10" y="210" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="ProjectRed-integration (ProjectRed-1.12.2-4.9.4.120-integration)&#xa;[ Better than redstone ]" link="https://www.curseforge.com/minecraft/mc-mods/project-red-integration/files/2745548" id="projredintegration">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_projred" vertex="1">
+            <mxGeometry x="10" y="300" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="ProjectRed-illumination (ProjectRed-1.12.2-4.9.4.120-illumination)&#xa;[ Better than redstone ]" link="https://www.curseforge.com/minecraft/mc-mods/project-red-illumination/files/2745549" id="projredillumination">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_projred" vertex="1">
+            <mxGeometry x="10" y="390" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="ProjectRed-mechanical (ProjectRed-1.12.2-4.9.4.120-mechanical)&#xa;[ Better than redstone ]" link="https://www.curseforge.com/minecraft/mc-mods/project-red-expansion/files/2745550" id="projredmechanical">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_projred" vertex="1">
+            <mxGeometry x="10" y="480" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="ProjectRed-world (ProjectRed-1.12.2-4.9.4.120-world)&#xa;[ Better than redstone ]" link="https://www.curseforge.com/minecraft/mc-mods/project-red-exploration/files/2745551" id="projredworld">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_projred" vertex="1">
+            <mxGeometry x="10" y="570" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Railcraft (railcraft-12.0.0)&#xa;[ Railways ]" link="https://www.curseforge.com/minecraft/mc-mods/railcraft/files/2687757" id="railcraft">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="1820" y="40" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="s7wWyFeA-cl3wrVjsFlN-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="group_main" source="redstoneflux" target="cofhcore">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2160" y="200" />
+              <mxPoint x="2160" y="-10" />
+              <mxPoint x="1080" y="-10" />
+              <mxPoint x="1080" y="140" />
+              <mxPoint x="540" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s7wWyFeA-cl3wrVjsFlN-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="group_main" source="redstoneflux" target="nuclearcraft">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2160" y="220" />
+              <mxPoint x="2160" y="830" />
+              <mxPoint x="1260" y="830" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="RedstoneFlux (RedstoneFlux-1.12-2.1.1.1-universal)&#xa;[ Dependency for CoFHCore ]" link="https://www.curseforge.com/minecraft/mc-mods/redstone-flux/files/2920436" id="redstoneflux">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="1820" y="160" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="RTG-U (RTG-U-1.12.2-6.1.0.0)&#xa;[ Terrain generation ]" link="https://www.curseforge.com/minecraft/mc-mods/realistic-terrain-generation-unofficial/files/4394908" id="rtg">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="1820" y="280" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="s7wWyFeA-cl3wrVjsFlN-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="group_main" source="storagedrawers" target="storagedrawersextras">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="StorageDrawers (StorageDrawers-1.12.2-5.4.2)&#xa;[ Аналог JABBA ]" link="https://www.curseforge.com/minecraft/mc-mods/storage-drawers/files/2952606" id="storagedrawers">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="1820" y="400" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="StorageDrawersExtras (StorageDrawersExtras-1.12-3.1.0)&lt;br&gt;[ Addon for StorageDrawers ]" link="https://www.curseforge.com/minecraft/mc-mods/storage-drawers-extras/files/2443623" id="storagedrawersextras">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="1820" y="520" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="s7wWyFeA-cl3wrVjsFlN-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="group_main" source="thermaldynamics" target="nuclearcraft">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1980" y="820" />
+              <mxPoint x="1340" y="820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="ThermalDynamics (ThermalDynamics-1.12.2-2.5.6.1-universal)&#xa;[ Dependency for NuclearCraft, но это не точно. По возможности уберу из сборки. ]" link="https://www.curseforge.com/minecraft/mc-mods/thermal-dynamics/files/2920505" id="thermaldynamics">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="1820" y="640" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="s7wWyFeA-cl3wrVjsFlN-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="group_main" source="thermalfoundation" target="nuclearcraft">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2170" y="80" />
+              <mxPoint x="2170" y="840" />
+              <mxPoint x="1180" y="840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="ThermalFoundation (ThermalFoundation-1.12.2-2.6.7.1-universal)&#xa;[ Dependency for NuclearCraft, но это не точно. По возможности уберу из сборки. ]" link="https://www.curseforge.com/minecraft/mc-mods/thermal-foundation/files/2926428" id="thermalfoundation">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="2180" y="40" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="UndergroundBiomesConstructs (UndergroundBiomesConstructs-1.12-1.3.14)&#xa;[ ]" link="https://www.curseforge.com/minecraft/mc-mods/underground-biomes/files/3832678" id="ubc">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="2180" y="160" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="s7wWyFeA-cl3wrVjsFlN-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="group_main" source="bspkrscore" target="treecapitator">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="bspkrsCore ([1.12]bspkrsCore-universal-7.6.0.1)&#xa;[ Dependency for TreeCapitator ]" link="https://www.curseforge.com/minecraft/mc-mods/bspkrscore-updated/files" id="bspkrscore">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="2180" y="280" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="TreeCapitator ([1.12]TreeCapitator-client-1.43.0)&#xa;[ ]" link="https://www.curseforge.com/minecraft/mc-mods/treecapitator-updated/files/2722878" id="treecapitator">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_main" vertex="1">
+            <mxGeometry x="2180" y="400" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="group_architect" value="Архитектурные моды" style="swimlane;" parent="1" vertex="1">
+          <mxGeometry x="400" y="1040" width="360" height="860" as="geometry" />
+        </mxCell>
+        <UserObject label="architecturecraft (architecturecraft-1.12-3.108)&#xa;[ Аналог мода - carpenter ]" link="https://www.curseforge.com/minecraft/mc-mods/architecturecraft-tridev/files/4344128" tooltip="" id="architecturecraft">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_architect" vertex="1">
+            <mxGeometry x="20" y="40" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="BiblioCraft (BiblioCraft[v2.4.6][MC1.12.2])&#xa;[ Мод с множеством красивых табличек, книжных полок и т.п. ]" link="https://www.curseforge.com/minecraft/mc-mods/bibliocraft/files/3647708" tooltip="" id="bibliocraft">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_architect" vertex="1">
+            <mxGeometry x="20" y="160" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="bonsaitrees (bonsaitrees-1.1.4-b170)&#xa;[ Мод добавляет красивые мини деревья ]" link="https://www.curseforge.com/minecraft/mc-mods/bonsai-trees/files/2846217" tooltip="" id="bonsaitrees">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_architect" vertex="1">
+            <mxGeometry x="20" y="280" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="chisel (Chisel-MC1.12.2-1.0.2.45)&#xa;[ Мод добавляет много разных строительных блоков ]" link="https://www.curseforge.com/minecraft/mc-mods/chisel/files/2915375" tooltip="" id="chisel">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_architect" vertex="1">
+            <mxGeometry x="20" y="400" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="CpvqtGxYvZF3OOyy89xH-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="group_architect" source="ctm" target="chisel" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="ConnectedTexturesMod (CTM-MC1.12.2-1.0.2.31)&#xa;[ Depends for chisel ]" link="https://www.curseforge.com/minecraft/mc-mods/ctm/files/2915363" tooltip="" id="ctm">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_architect" vertex="1">
+            <mxGeometry x="20" y="520" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="mcw-fences (mcw-fences-1.0.0-mc1.12.2)&#xa;[ Добавляет красивые заборы ]" link="https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls/files/3231561" tooltip="" id="macawfences">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_architect" vertex="1">
+            <mxGeometry x="20" y="640" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="mcw-bridges (mcw-bridges-1.0.6b-mc1.12.2)&#xa;[ Добавляет красивые мосты ]" link="https://www.curseforge.com/minecraft/mc-mods/macaws-bridges/files/3383460" tooltip="" id="macawbridges">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_architect" vertex="1">
+            <mxGeometry x="20" y="760" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="group_interface" value="Интерфейсные моды" style="swimlane;" parent="1" vertex="1">
+          <mxGeometry x="960" y="1040" width="1080" height="860" as="geometry" />
+        </mxCell>
+        <UserObject label="gendustryjei (gendustryjei-1.0.2)&#xa;[ Connects gendustry to JEI ]" link="https://www.curseforge.com/minecraft/mc-mods/gendustry-jei-addon/files/2609434" tooltip="" id="gendustryjei">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_interface" vertex="1">
+            <mxGeometry x="20" y="40" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="InGameInfoXML (InGameInfoXML-1.12.2-2.8.2.94-universal)&#xa;[ Extends UI ]" link="https://www.curseforge.com/minecraft/mc-mods/ingame-info-xml/files/2489566" tooltip="" id="ingameinfoxml">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_interface" vertex="1">
+            <mxGeometry x="20" y="160" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="InventoryTweaks (InventoryTweaks-1.63)&#xa;[ ]" link="https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks/files/2482481" tooltip="" id="invtweaks">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_interface" vertex="1">
+            <mxGeometry x="20" y="280" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="jeibees (jeibees-0.9.0.5-mc1.12.2)&#xa;[ Addon for JEI shows some bee info ]" link="https://www.curseforge.com/minecraft/mc-mods/jei-bees/files/2490058" tooltip="" id="jeibees">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_interface" vertex="1">
+            <mxGeometry x="20" y="400" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="jeiintegration (jeiintegration_1.12.2-1.6.0)&#xa;[ The mod provides JEI recipe handlers for other mods ]" link="https://www.curseforge.com/minecraft/mc-mods/jei-integration/files/2951731" tooltip="" id="jeiintegration">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_interface" vertex="1">
+            <mxGeometry x="20" y="520" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="s7wWyFeA-cl3wrVjsFlN-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="group_interface" source="jei" target="jeiintegration">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s7wWyFeA-cl3wrVjsFlN-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="group_interface" source="jei" target="jeibees">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="10" y="660" />
+              <mxPoint x="10" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s7wWyFeA-cl3wrVjsFlN-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="group_interface" source="jei" target="jeicalc">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="620" />
+              <mxPoint x="350" y="620" />
+              <mxPoint x="350" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s7wWyFeA-cl3wrVjsFlN-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="group_interface" source="jei" target="jee">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="660" />
+              <mxPoint x="370" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s7wWyFeA-cl3wrVjsFlN-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="group_interface" source="jei" target="jer">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="700" />
+              <mxPoint x="370" y="730" />
+              <mxPoint x="720" y="730" />
+              <mxPoint x="720" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s7wWyFeA-cl3wrVjsFlN-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="group_interface" source="jei" target="nei">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="740" />
+              <mxPoint x="360" y="740" />
+              <mxPoint x="360" y="780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s7wWyFeA-cl3wrVjsFlN-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="group_interface" source="jei" target="gendustryjei">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-10" y="680" />
+              <mxPoint x="-10" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="jei (jei_1.12.2-4.16.1.1000)&#xa;[ The recipe viewing mod ]" link="https://www.curseforge.com/minecraft/mc-mods/jei/files/4364085" tooltip="" id="jei">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_interface" vertex="1">
+            <mxGeometry x="20" y="640" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="journeymap (journeymap-1.12.2-5.7.1.jar.disabled)&#xa;[ ]" link="https://www.curseforge.com/minecraft/mc-mods/journeymap/files/2916002" tooltip="" id="journeymap">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_interface" vertex="1">
+            <mxGeometry x="20" y="760" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="JustEnoughCalculation (JustEnoughCalculation-1.12.2-3.2.7)&#xa;[ Resource calculator ]" link="https://www.curseforge.com/minecraft/mc-mods/just-enough-calculation/files/3524685" tooltip="" id="jeicalc">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_interface" vertex="1">
+            <mxGeometry x="380" y="40" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="JustEnoughEnergistics (JustEnoughEnergistics-1.12.2-1.0.8)&lt;br&gt;[ Integration JEI with AE2 Возможно будет изъят из сборки. Т.к. есть NotEnoughEnergistics ]" link="https://www.curseforge.com/minecraft/mc-mods/just-enough-energistics-jee/files/2783832" tooltip="" id="jee">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_interface" vertex="1">
+            <mxGeometry x="380" y="160" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="JustEnoughResources (JustEnoughResources-1.12.2-0.9.2.60)&#xa;[ JEI Addon ]" link="https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer/files/2728585" tooltip="" id="jer">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_interface" vertex="1">
+            <mxGeometry x="380" y="280" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="CpvqtGxYvZF3OOyy89xH-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="group_interface" source="lunatriuscore" target="ingameinfoxml" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="LunatriusCore (LunatriusCore-1.12.2-1.2.0.42-universal)&#xa;[ Dependency for InGameInfoXML ]" link="https://www.curseforge.com/minecraft/mc-mods/lunatriuscore/files/2489549" tooltip="" id="lunatriuscore">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_interface" vertex="1">
+            <mxGeometry x="380" y="400" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="MapWriter (MapWriter-1.12.2-2.8.2)&#xa;[ ]" link="https://www.curseforge.com/minecraft/mc-mods/mapwriter-2/files/2510933" tooltip="" id="mapwriter">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_interface" vertex="1">
+            <mxGeometry x="380" y="520" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="NotEnoughEnergistics (NotEnoughEnergistics-1.12.2-2.0.3)&#xa;[ Integration JEI with AE2 ]" link="https://www.curseforge.com/minecraft/mc-mods/not-enough-energistics/files/4382001" tooltip="" id="nee">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_interface" vertex="1">
+            <mxGeometry x="380" y="640" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="NotEnoughItems (NotEnoughItems-1.12.2-2.4.3.245-universal)&#xa;[ ]" link="https://www.curseforge.com/minecraft/mc-mods/not-enough-items-1-8/files/2755792" tooltip="" id="nei">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_interface" vertex="1">
+            <mxGeometry x="380" y="760" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="OptiFine (OptiFine_1.12.2_HD_U_G5)&#xa;[ ]" link="https://optifine.net/downloads" tooltip="" id="optifine">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_interface" vertex="1">
+            <mxGeometry x="740" y="40" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="s7wWyFeA-cl3wrVjsFlN-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="group_interface" source="theoneprobe" target="topaddons">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="TheOneProbe (theoneprobe-1.12-1.4.28)&#xa;[ Аналог Waila ]" link="https://www.curseforge.com/minecraft/mc-mods/the-one-probe/files/2667280" tooltip="" id="theoneprobe">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_interface" vertex="1">
+            <mxGeometry x="740" y="160" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="topaddons (topaddons-1.12.2-1.13.0)&#xa;[ Addon for TheOneProbe ]" link="https://www.curseforge.com/minecraft/mc-mods/top-addons/files/2887479" tooltip="" id="topaddons">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_interface" vertex="1">
+            <mxGeometry x="740" y="280" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="group_admin" value="Моды для администрирования" style="swimlane;" parent="1" vertex="1">
+          <mxGeometry x="2240" y="1040" width="360" height="860" as="geometry" />
+        </mxCell>
+        <UserObject label="WorldEdit-CUI (WorldEdit-CUI-FE3-1.12.2-3.0.9)&#xa;[ UI for WorldEdit ]" link="https://www.curseforge.com/minecraft/mc-mods/worldeditcui-forge-edition-3/files/3191629" id="wecui">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_admin" vertex="1">
+            <mxGeometry x="20" y="40" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="s7wWyFeA-cl3wrVjsFlN-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="group_admin" source="we" target="wecui">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="WorldEdit (worldedit-forge-mc1.12.2-6.1.10-dist)&#xa;[ ]" link="https://www.curseforge.com/minecraft/mc-mods/worldedit/files/2655056" id="we">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_admin" vertex="1">
+            <mxGeometry x="20" y="160" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="group_dev" value="Моды для настройки сборки" style="swimlane;" parent="1" vertex="1">
+          <mxGeometry x="2800" y="1040" width="360" height="860" as="geometry" />
+        </mxCell>
+        <mxCell id="CpvqtGxYvZF3OOyy89xH-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="group_dev" source="base" target="contenttweaker" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="base (base-1.12.2-3.14.0)&#xa;[ Depends for ContentTweaker ]" link="https://www.curseforge.com/minecraft/mc-mods/base/files/3440963" id="base">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_dev" vertex="1">
+            <mxGeometry x="21" y="40" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="ContentTweaker (ContentTweaker-1.12.2-4.10.0)&#xa;[ Addon for CraftTweaker ]" link="https://www.curseforge.com/minecraft/mc-mods/contenttweaker/files/3331364" id="contenttweaker">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_dev" vertex="1">
+            <mxGeometry x="21" y="160" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="s7wWyFeA-cl3wrVjsFlN-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="group_dev" source="crafttweaker" target="contenttweaker">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="CraftTweaker2 (CraftTweaker2-1.12-4.1.20.684)&#xa;[ With CraftTweaker you can change recipes, script events, add new commands and even change item properties! ]" link="https://www.curseforge.com/minecraft/mc-mods/crafttweaker/files/4379998" id="crafttweaker">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_dev" vertex="1">
+            <mxGeometry x="21" y="280" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="CustomOreGen (CustomOreGen-1.12-1.8.1)&#xa;[ Configure ore gen ]" link="https://www.curseforge.com/minecraft/mc-mods/customoregen/files/2568549" id="customoregen">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_dev" vertex="1">
+            <mxGeometry x="21" y="400" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="CpvqtGxYvZF3OOyy89xH-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="group_dev" source="endertweaker" target="crafttweaker" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="560" />
+              <mxPoint x="350" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="EnderTweaker (EnderTweaker-1.12.2-1.2.3)&#xa;[ Ender Tweaker is an interface between EnderIO and CraftTweaker ]" link="https://www.curseforge.com/minecraft/mc-mods/endertweaker/files/3474382" id="endertweaker">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_dev" vertex="1">
+            <mxGeometry x="21" y="520" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="CpvqtGxYvZF3OOyy89xH-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="group_dev" source="loottweaker" target="crafttweaker" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="10" y="680" />
+              <mxPoint x="10" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="LootTweaker (LootTweaker-0.3.1+MC1.12.2)&#xa;[ LootTweaker is an addon for CraftTweaker that allows loot tables to be tweaked with ZenScript files ]" link="https://www.curseforge.com/minecraft/mc-mods/loottweaker/files/3507866" id="loottweaker">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="group_dev" vertex="1">
+            <mxGeometry x="21" y="640" width="320" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="CpvqtGxYvZF3OOyy89xH-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="gendustry" target="gendustryjei" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CpvqtGxYvZF3OOyy89xH-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="forestry" target="jeibees" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1120" y="360" />
+              <mxPoint x="1120" y="800" />
+              <mxPoint x="920" y="800" />
+              <mxPoint x="920" y="1480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CpvqtGxYvZF3OOyy89xH-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="enderio" target="endertweaker" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="940" y="910" />
+              <mxPoint x="2760" y="910" />
+              <mxPoint x="2760" y="1600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s7wWyFeA-cl3wrVjsFlN-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="codechickenlib" target="nei">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1110" y="140" />
+              <mxPoint x="1110" y="1000" />
+              <mxPoint x="900" y="1000" />
+              <mxPoint x="900" y="1920" />
+              <mxPoint x="1500" y="1920" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s7wWyFeA-cl3wrVjsFlN-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ae2" target="jee">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="240" />
+              <mxPoint x="380" y="930" />
+              <mxPoint x="1680" y="930" />
+              <mxPoint x="1680" y="1240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s7wWyFeA-cl3wrVjsFlN-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ae2" target="nee">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="220" />
+              <mxPoint x="370" y="940" />
+              <mxPoint x="1690" y="940" />
+              <mxPoint x="1690" y="1720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
